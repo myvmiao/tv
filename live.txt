@@ -61,7 +61,7 @@ CETV2,http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
 CETV3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
 CETV4,http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
 
-🇨🇳［深央］,#genre#
+🇨🇳［深圳央视］,#genre#
 CCTV1,http://218.17.216.102:9901/tsfile/live/1010_1.m3u8
 CCTV2,http://218.17.216.102:9901/tsfile/live/1011_1.m3u8
 CCTV3,http://218.17.216.102:9901/tsfile/live/1012_1.m3u8
@@ -140,11 +140,11 @@ CCTV老故事,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 CCTV中学生,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 
 港澳湾,#genre#
+中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 中天新闻,https://gitee.com/vmiao/jd-base/raw/dfee4bdd06254eab133d60ea3a83022195e14700/Z-SKY_28.m3u8
 中天新闻,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
