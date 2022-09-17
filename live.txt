@@ -151,11 +151,7 @@ CCTV中学生,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰香港,http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
-凤凰香港,http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
-凤凰香港,http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+凤凰电影,P2p://ns1.hellotvvod.com:9906/d4c33084745649c7be82be967458a227
 
 老片回顾,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
