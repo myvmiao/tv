@@ -135,6 +135,7 @@ CCTV中学生,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻,P2p://ns1.hellotvvod.com:9906/50693eebb9ff4383be2444c8d4f00eb9
 中天新闻,https://gitee.com/vmiao/jd-base/raw/dfee4bdd06254eab133d60ea3a83022195e14700/Z-SKY_28.m3u8
 中天新闻,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 凤凰中文,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8$高清1080P
