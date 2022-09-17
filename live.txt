@@ -40,7 +40,6 @@ CCTV央视台球,http://117.148.179.147/PLTV/88888888/224/3221231616/index.m3u8
 CCTV央视文化精品,http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 CCTV-风云剧场,http://117.148.179.147/PLTV/88888888/224/3221231604/index.m3u8
 CCTV-世界地理,http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8
-CCTV-4K高清,https://v.bjiptv.eu.org/4.php?a=0219
 CCTV-电视指南,http://39.134.196.142/hlsmgsplive.miguvideo.com:8080/ws_v/2018/dszn/dszn711/1000/index.m3u8?&encrypt=
 CGTN,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 CGTN记录,http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
@@ -101,7 +100,6 @@ CGTN,http://120.236.17.34:808/hls/216/index.m3u8
 世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
 兵器科技,http://218.17.216.102:9901/tsfile/live/1027_1.m3u8
 大湾区卫视,http://218.17.216.102:9901/tsfile/live/1007_1.m3u8
-1905电影,http://mmitv.top/other/1905.php?id=1905
 
 中国气象,http://140.207.241.3:8080/live/program/live/zgqx/1300000/d1.m3u8
 CGTN,http://111.40.196.9/PLTV/88888888/224/3221225652/index.m3u8
@@ -416,6 +414,7 @@ CCTV中学生,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 河南卫视,http://117.169.30.75:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
 
 电影频道,#genre#
+1905电影,http://mmitv.top/other/1905.php?id=1905
 AXN,http://50.7.61.148:30080/Entry/axn
 卫视电影台,http://220.134.196.147:8578/ch07.m3u8
 卫视电影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
@@ -3105,10 +3104,7 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 昭苏哈语,http://p4.weizan.cn/922798105/014770838249882543/live.m3u8
 昭苏汉语,http://p4.weizan.cn/922798105/668907141897737665/live.m3u8
 
-
 贵州,#genre#
-
-
 安顺新闻频道,https://player.juyun.tv/camera/64413134.m3u8
 道真新闻综合,http://live.dzrmt.com:90/live/XWZH_1M.m3u8
 金海湖电视台,http://pili-live-hls.jhh.ddcpc.cn/ddcpc-jhh/tv1050-1563865985.m3u8
@@ -3347,6 +3343,7 @@ CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P
 CCTV4K超高清,https://p.ggiptv.com/v/4k.m3u8?$全网蓝光4K
 CCTV4K超高清,http://iptv.tvfix.org/hls/cctv4k.m3u8?$全网蓝光4K
 CCTV4K超高清,http://ye23.win/iptv/4k.cctv.php?$全网蓝光4K
+CCTV4K超高清,https://v.bjiptv.eu.org/4.php?a=0219
 CCTV4K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8?$咪咕移动1080P
 CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u8?$咪咕移动1080P
 CCTV8K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8?$移咪咕动1080P
@@ -3507,7 +3504,6 @@ CCTV中学生,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-
 
 
 卫视移动,#genre#
