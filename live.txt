@@ -40,6 +40,7 @@ CCTV央视台球,http://117.148.179.147/PLTV/88888888/224/3221231616/index.m3u8
 CCTV央视文化精品,http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 CCTV-风云剧场,http://117.148.179.147/PLTV/88888888/224/3221231604/index.m3u8
 CCTV-世界地理,http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8
+CCTV-4K高清,https://v.bjiptv.eu.org/4.php?a=0219
 CCTV-电视指南,http://39.134.196.142/hlsmgsplive.miguvideo.com:8080/ws_v/2018/dszn/dszn711/1000/index.m3u8?&encrypt=
 CGTN,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 CGTN记录,http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
@@ -100,6 +101,7 @@ CGTN,http://120.236.17.34:808/hls/216/index.m3u8
 世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
 兵器科技,http://218.17.216.102:9901/tsfile/live/1027_1.m3u8
 大湾区卫视,http://218.17.216.102:9901/tsfile/live/1007_1.m3u8
+1905电影,http://mmitv.top/other/1905.php?id=1905
 
 中国气象,http://140.207.241.3:8080/live/program/live/zgqx/1300000/d1.m3u8
 CGTN,http://111.40.196.9/PLTV/88888888/224/3221225652/index.m3u8
