@@ -228,9 +228,30 @@
 			"api": "csp_Tkys",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+                                      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/myvmiao/tv/main/jar2/bdys.jar"
 		},
-		{
+                {
+                         "key": "NianYing",
+                         "name": " NianYing(SP)",
+                         "type": 3,
+                         "api": "csp_NianYing",
+                         "searchable": 1,
+                         "quickSearch": 1,
+                         "filterable": 1,
+                         "jar": "https://ghproxy.com/https://raw.githubusercontent.com/myvmiao/tv/main/jar2/bdys.jar"
+                  },
+                  {
+                          "key": "csp_Ddys",
+                          "name": " 低端影视(SP)",
+                          "type": 3,
+                          "api": "csp_Ddys",
+                          "searchable": 1,
+                          "quickSearch": 1,
+                          "filterable": 1,
+                          "jar": "https://ghproxy.com/https://raw.githubusercontent.com/myvmiao/tv/main/jar2/bdys.jar"
+                   },
+		   {
 			"key": "csp_Yj1211",
 			"name": "直播通道（SP）",
 			"type": 3,
