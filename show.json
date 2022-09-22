@@ -313,7 +313,7 @@
                         "searchable":1,
                         "jar": "https://ghproxy.com/https://raw.githubusercontent.com/myvmiao/tv/main/jar2/bdys.jar"
                  },
-//		{"key":"KanSJ_spider","name":"通道-30（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+//神马影院，应该还能用，备用		{"key":"KanSJ_spider","name":"通道-30（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //		{"key":"293视频","name":"通道-31（SP）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_AppYsV2","name":"通道-32（V2）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 		{"key":"csp_xpath_6d","name":"通道-33（XP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/myvmiao/tv/main/jar2/6d.json"},
