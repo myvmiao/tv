@@ -678,7 +678,7 @@
 	{
 		"name": "GGTV自用",
 		"type": 1,
-		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="
+		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiiii&url="
 	},
 	{
 		"name": "GGTV搜集",
@@ -692,12 +692,8 @@
 		"url": "https://okjx.cc/?url="
 	},
 //	{"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
-	{
-		"name": "爱酷",
-		"type": 1,
-		"url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="
-	},
-	{"name": "懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
+    {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+//	{"name": "懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
 	{
 		"name": "江湖",
 		"type": 1,
