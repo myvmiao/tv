@@ -142,8 +142,8 @@ CCTV1,http://120.236.17.348/hls/201/index.m3u8
 CCTV2,http://120.236.17.348/hls/202/index.m3u8
 CCTV-3,http://120.236.17.348/hls/3/index.m3u8
 CCTV4,http://120.236.17.348/hls/204/index.m3u8
-CCTV-5,http://120.236.17.348/hls/5/index.m3u8
-CCTV-6,http://120.236.17.348/hls/8/index.m3u8
+CCTV5,http://120.236.17.348/hls/5/index.m3u8
+CCTV6,http://120.236.17.348/hls/8/index.m3u8
 CCTV7,http://120.236.17.348/hls/207/index.m3u8
 CCTV-8,http://120.236.17.348/hls/10/index.m3u8
 CCTV9,http://120.236.17.348/hls/209/index.m3u8
@@ -199,12 +199,10 @@ CCTV第一剧场,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 
 【港-台】,#genre#
 中天新闻,http://60.251.39.247:8504/http/192.168.77.2481/hls/78/80/ch63max.m3u8
+中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新闻,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://for40255.sytes.net99/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 中天新闻,http://for40255.sytes.net99/tv/iptv/live.php?id=ztxw
-中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-三立新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民视,rtmp://59.124.75.138/sat/tv051
 民视,https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
