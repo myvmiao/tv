@@ -144,6 +144,11 @@
 //	{"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+		   {
+     "name":"云you",
+     "type":1,
+     "url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+ },
 	{
 		"name": "江湖解析",
 		"type": 1,
