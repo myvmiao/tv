@@ -112,49 +112,15 @@
 		{"key":"csp_bendi","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 		{"key":"push_agent","name":"推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/myvmiao/tv/main/jar2/alitoken.json"}
 	],
-	"parses": [{
-		"name": "解析聚合",
-		"type": 3,
-		"url": "Demo"
-	}, {
-		"name": "Json并发",
-		"type": 2,
-		"url": "Parallel"
-	}, {
-		"name": "Json轮询",
-		"type": 2,
-		"url": "Sequence"
-	},
-	{
-		"name": "GGTV自用",
-		"type": 1,
-		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiiii&url="
-	},
-	{
-		"name": "GGTV搜集",
-		"type": 1,
-		"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-	},
-	{"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
-	{
-		"name": "OKjx嗅探",
-		"type": 0,
-		"url": "https://okjx.cc/?url="
-	},
+	"parses": [
+	{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json并发","type":2,"url":"Parallel"},{"name":"Json轮询","type":2,"url":"Sequence"},
+	{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+	{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+	{"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},{"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
 //	{"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-		   {
-     "name":"云you",
-     "type":1,
-     "url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
- },
-	{
-		"name": "江湖解析",
-		"type": 1,
-		"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-	}
-
+	{"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}
 	],
 	
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
