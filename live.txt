@@ -199,10 +199,12 @@ CCTV第一剧场,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 
 【港-台】,#genre#
 中天新闻,http://60.251.39.247:8504/http/192.168.77.2481/hls/78/80/ch63max.m3u8
+中天新闻,http://60.251.39.247:8504/.m3u8
+中天新闻,http://for40255.sytes.net99/tv/iptv/live.php?id=ztxw
+中天新闻,https://epg.pm/stream/526f164cdabe04bee921865bb05037255c22ccbeb50cafd3a4ec83cc00514447.m3u8
 中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新闻,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://for40255.sytes.net99/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-中天新闻,http://for40255.sytes.net99/tv/iptv/live.php?id=ztxw
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民视,rtmp://59.124.75.138/sat/tv051
 民视,https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
