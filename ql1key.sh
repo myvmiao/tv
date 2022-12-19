@@ -36,8 +36,7 @@ if [[ ! "$USER" == "root" ]]; then
   exit 1
 fi
 
-datav=/root/ql$(date +%Y%m%d)
-mkdir -p $datav  && ql_path=$datav
+mkdir -p $datav
 
 
 ql_run() {
