@@ -203,11 +203,12 @@ CCTV第一剧场,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 
 【港-台】,#genre#
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新闻,https://mirror.ghproxy.com/https://raw.githubusercontent.com/myvmiao/tv/main/ztnews.m3u8?c=03
+中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民视,rtmp://59.124.75.138/sat/tv051
-民视,https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
-民视,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 民视,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8 
 民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8 
 台视,rtmp://59.124.75.138/sat/tv071
@@ -248,9 +249,9 @@ CCTV第一剧场,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 香港台,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
-TVBS新闻台,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
-TVBS新闻台,https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
-TVBS新闻台,https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
