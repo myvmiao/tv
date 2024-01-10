@@ -207,6 +207,11 @@ CCTV第一剧场,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民视,rtmp://59.124.75.138/sat/tv051
 民视,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8 
@@ -249,11 +254,6 @@ CCTV第一剧场,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 香港台,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
 河北,#genre#
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
