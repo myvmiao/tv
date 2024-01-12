@@ -465,8 +465,8 @@ tvNMovies,http://175.158.62.142:8888/stream/channelid/7113874?ticket=4B408D00740
 17a580c483378d476d4f8819d19bd69c
 매일경제TV,http://175.158.62.142:8888/stream/channelid/1149281559?ticket=0743AD7740433210EFB6C635FCF26139348F4679&profile=pass
 KIX,http://203.80.165.14/stream/channelid/1365041137?profile=pass
-北京频道,#genre#
-CCTV-1高清,http://61.148.223.18:8888/newlive/live/hls/2/live.m3u8
+央视频道,#genre#
+CCTV-1,http://61.148.223.18:8888/newlive/live/hls/2/live.m3u8
 CCTV-2,http://61.148.223.18:8888/newlive/live/hls/3/live.m3u8
 CCTV-3,http://61.148.223.18:8888/newlive/live/hls/4/live.m3u8
 CCTV-4,http://61.148.223.18:8888/newlive/live/hls/5/live.m3u8
@@ -474,7 +474,7 @@ CCTV-5,http://61.148.223.18:8888/newlive/live/hls/6/live.m3u8
 CCTV-6,http://61.148.223.18:8888/newlive/live/hls/7/live.m3u8
 CCTV-7,http://61.148.223.18:8888/newlive/live/hls/8/live.m3u8
 CCTV-8,http://61.148.223.18:8888/newlive/live/hls/9/live.m3u8
-CCTV-9高清,http://61.148.223.18:8888/newlive/live/hls/10/live.m3u8
+CCTV-9,http://61.148.223.18:8888/newlive/live/hls/10/live.m3u8
 CCTV-10,http://61.148.223.18:8888/newlive/live/hls/11/live.m3u8
 CCTV-11,http://61.148.223.18:8888/newlive/live/hls/12/live.m3u8
 CCTV-12,http://61.148.223.18:8888/newlive/live/hls/13/live.m3u8
