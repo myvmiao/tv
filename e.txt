@@ -324,7 +324,7 @@ Celestial Classic Movies,https://code.vthanhtivi.pw/getlink/eazie/242920/playlis
 HITS,https://code.vthanhtivi.pw/getlink/tv360/AVfivHCJsMBxzeUxGop7mw/1699926682/107/playlist.m3u8
 Thrill,https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 
-国内有线#genre#
+国内有线,#genre#
 CCTV1,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://221.213.70.18:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8
