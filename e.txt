@@ -339,6 +339,7 @@ CCTV11,http://221.213.70.18:9901/tsfile/live/0011_1.m3u8
 CCTV12,http://221.213.70.18:9901/tsfile/live/0012_1.m3u8
 CCTV13,http://221.213.70.18:9901/tsfile/live/0013_1.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,https://pi.0472.org/tv/mzt.php?auth=2309081833
 CCTV14,http://221.213.70.18:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://221.213.70.18:9901/tsfile/live/0015_1.m3u8
 云南卫视,http://221.213.70.18:9901/tsfile/live/0019_1.m3u8
