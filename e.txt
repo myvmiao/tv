@@ -1176,8 +1176,6 @@ CCTV15,http://119.130.243.111:9901/tsfile/live/0015_1.m3u8
 深圳卫视,http://119.130.243.111:9901/tsfile/live/0126_1.m3u8
 
 河北地方,#genre#
-河北卫视,http://api3.52tb.xyz/info?id=32&token=20230227aesvnb
-河北卫视,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=7bd4710986c2af7552dcf3d4686da62b
 河北都市,rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=f64bdf05a94d8565bb4d68d7b39f5299
