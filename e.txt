@@ -326,6 +326,7 @@ Thrill,https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 
 国内有线,#genre#
 CCTV1,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://183.66.66.199:2345/udp/235.254.196.1:7980
 CCTV2,http://221.213.70.18:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8
 CCTV4,http://221.213.70.18:9901/tsfile/live/0004_1.m3u8
