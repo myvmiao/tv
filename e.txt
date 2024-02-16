@@ -663,6 +663,25 @@ CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.
 天津卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020bbc84ee1afd7177a073393d7.m3u8?bitrate=2300&pt=5
 浙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5
 
+CCTV1,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+CCTV2,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV3,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+CCTV4,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV5,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV5+,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV6,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+CCTV7,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+CCTV8,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+CCTV9,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV10,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV11,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+CCTV12,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+CCTV13,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+CCTV14,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV15,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+CCTV16,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+CCTV17,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+
 CCTV1,http://220.176.195.105:8888/newlive/live/hls/2/live.m3u8
 CCTV2,http://220.176.195.105:8888/newlive/live/hls/3/live.m3u8
 CCTV3,http://220.176.195.105:8888/newlive/live/hls/4/live.m3u8
