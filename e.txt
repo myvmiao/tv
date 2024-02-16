@@ -1311,8 +1311,6 @@ CCTV15,http://119.130.243.111:9901/tsfile/live/0015_1.m3u8
 任丘文娱,http://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 景县,http://hbjx.chinashadt.com:1935/live/jx1.stream/playlist.m3u8
 景县,rtmp://hbjx.chinashadt.com:1935/live/jx1.stream
-深州综合,http://hbsz.chinashadt.com:2036/live/sztv.stream_360p/playlist.m3u8
-深州综合,http://hbsz.chinashadt.com:2036/live/sztv.stream/playlist.m3u8
 武邑,http://hbwy.chinashadt.com:2036/live/wy1.stream/playlist.m3u8
 枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
 承德新闻,http://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
@@ -1348,9 +1346,6 @@ CCTV15,http://119.130.243.111:9901/tsfile/live/0015_1.m3u8
 兴隆综合,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 兴隆影视,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8,
-邢台生活,https://a.xttv.top/xttv/d0586743dc68918f808f28b-2022cssh.m3u8
-邢台生活,https://a.xttv.top/xttv/d0586743dc68918f808f28b-2022cssh.flv
-邢台生活,rtmp://a.xttv.top/xttv/d0586743dc68918f808f28b-2022cssh
 南宫,http://jwcdnqx.hebyun.com.cn/live/ngtv1/1500k/tzwj_video.m3u8
 平乡综合,http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
 平乡综合,rtmp://hbpx.chinashadt.com:2036/live/px1.stream
