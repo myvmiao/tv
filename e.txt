@@ -359,6 +359,7 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://pi.0472.org/tv/mzt.php?auth=2309081833
 CCTV14,http://221.213.70.18:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://221.213.70.18:9901/tsfile/live/0015_1.m3u8
+重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
 CCTV1,http://183.66.66.199:2345/udp/235.254.196.1:7980
 CCTV1,http://183.66.66.199:2345/udp/235.254.199.51:7980
