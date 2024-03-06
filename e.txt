@@ -257,7 +257,6 @@ TechStorm,mitv://generationnexxxt.com:19806/994876c6aadc4234ba73441f18d36602
 爱尔达体育4台,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 中视(备),mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
 华视(备),mitv://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
-
 东森新闻台(备),mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 镜新闻,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
@@ -378,6 +377,26 @@ CCTV13,https://pi.0472.org/tv/mzt.php?auth=2309081833
 CCTV14,http://221.213.70.18:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://221.213.70.18:9901/tsfile/live/0015_1.m3u8
 重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+
+CCTV1,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+CCTV2,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV3,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+CCTV4,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV5,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV5+,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV6,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+CCTV7,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+CCTV8,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+CCTV9,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV10,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV11,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+CCTV12,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+CCTV13,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+CCTV14,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV15,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+CCTV16,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+CCTV17,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+CCTV4K,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 
 CCTV1,http://183.66.66.199:2345/udp/235.254.196.1:7980
 CCTV1,http://183.66.66.199:2345/udp/235.254.199.51:7980
