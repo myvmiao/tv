@@ -1,6 +1,5 @@
 港澳台,#genre#
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-中天新闻,https://ali.hlspull.yximgs.com/live/a90eb1dcc86e9b0c2b94d62815d9f556.flv
 中天新闻,https://s2.pub/cctv-17
 中天新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
 中天新闻,p3p://108.181.32.169:55113/64252571000be01dea73c63b5616781e
