@@ -396,7 +396,9 @@ Thrill,https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 
 国内有线,#genre#
 CCTV1,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=18512018163&Channel_ID=0119_04102000-99000_400300000040002&client_ip=120.86.36.182&timestamp=20240317092030&encrypt=33371a4b3f221f6e077a5e0772890fa3&ContentId=265183188&timezone=UTC
 CCTV2,http://221.213.70.18:9901/tsfile/live/0002_1.m3u8
+CCTV2,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=18512018163&Channel_ID=0119_04102000-99000_400300000040002&client_ip=120.86.36.182&timestamp=20240317092032&encrypt=367256aefc03093e3f8f6d64cd484157&ContentId=265667329&timezone=UTC
 CCTV3,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8
 CCTV4,http://221.213.70.18:9901/tsfile/live/0004_1.m3u8
 CCTV5,http://221.213.70.18:9901/tsfile/live/0005_1.m3u8
