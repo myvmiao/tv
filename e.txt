@@ -1,3 +1,6 @@
+法国奥运,#genre#
+CCTV5,http://liveali-audiovivid.5club.cctv.cn/live/CCTV5H/playlist.m3u8
+CCTV16,http://liveali-audiovivid.5club.cctv.cn/live/CCTV16H/playlist.m3u8
 港澳台1,#genre#
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻,http://104.233.187.174:8727/live.m3u8?c=1
