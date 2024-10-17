@@ -1,6 +1,5 @@
 
-🐯极速｜港澳,#genre#
-
+港澳1,#genre#
 中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 tvbs新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 非凡新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv010
@@ -101,7 +100,7 @@ YAIWAN,http://211.72.65.236:8538/.m3u8
 HBO,http://211.72.65.236:8580/.m3u8
 AXN,http://211.72.65.236:8582/.m3u8
 
-港澳1,#genre#
+港澳2,#genre#
 民視第壹,http://37.27.111.214:8080/live/4/hls.m3u8
 民視台灣,http://37.27.111.214:8080/live/5/hls.m3u8
 龍華電影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -261,7 +260,7 @@ MoMo,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
-港澳2,#genre#
+港澳3,#genre#
 民視,http://cookies.elementfx.com/ublive/ublive.php?id=336
 民視,http://cookies.elementfx.com/ublive/ublive.php?id=2805
 台視,http://cookies.elementfx.com/ublive/ublive.php?id=27
@@ -901,8 +900,6 @@ Heavenly Harp Music,http://cookies.elementfx.com/ublive/ublive.php?id=2540
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 
 1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a#http://xxw.me0.cn/1905dy.php?id=1905a
-
-
 云南卫视,http://ynxsj.7766.org:9901/tsfile/live/0119_1.m3u8
 云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
 云南生活,http://ynxsj.7766.org:9901/tsfile/live/1001_1.m3u8
