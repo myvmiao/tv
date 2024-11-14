@@ -1,9 +1,9 @@
 弯弯频道,#genre#
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
@@ -12,10 +12,10 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龙华日韩台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8  
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8 
 tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
