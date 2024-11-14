@@ -13,7 +13,6 @@ Global,http://37.27.111.214:8080/live/53/hls.m3u8
 华视,http://37.27.111.214:8080/live/8/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 港澳台1,#genre#
-中天新闻,p2p://142.54.189.229:3456/64de52a70006e20d01b906297b7d0f95.ts
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
