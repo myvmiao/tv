@@ -354,7 +354,7 @@ IHOT爱玩具,http://127.0.0.1:35345/itv/6000000006000220630.m3u8?cdn=wasusyt
 IHOT爱喜剧,http://127.0.0.1:35345/itv/6000000006000010630.m3u8?cdn=wasusyt
 IHOT爱悬疑,http://127.0.0.1:35345/itv/6000000006000050630.m3u8?cdn=wasusyt
 IHOT爱幼教,http://127.0.0.1:35345/itv/6000000006000180630.m3u8?cdn=wasusyt
-IHOT爱院线",http://127.0.0.1:35345/itv/6000000006000030630.m3u8?cdn=wasusyt
+IHOT爱院线,http://127.0.0.1:35345/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 咪咕体育【肥羊】,#genre#
 咪咕1,http://127.0.0.1:35345/itv/3000000001000005308.m3u8?cdn=FifastbLive
