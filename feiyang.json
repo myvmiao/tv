@@ -40,7 +40,8 @@
 	   "name": "proxy",
 	   "hosts": [
 	   "googlevideo.com",
-	    "youtube.com",
+           "raw.githubusercontent.com",
+	   "youtube.com",
 	   "cdn.v82u1l.com",
 	   "cdn.iz8qkg.com",
 	   "cdn.kin6c1.com",
