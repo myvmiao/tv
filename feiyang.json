@@ -16,6 +16,17 @@
        {
            "name":"国内-组播源",
            "type":0,
-           "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"}
+           "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"
+       },              
+        {
+           "name":"香港直播",
+           "type":0,
+           "url":"https://freetv.fun/test_channels_hong_kong_new.txt"
+       },        
+        {
+           "name":"湾湾直播",
+           "type":0,
+           "url":"https://freetv.fun/test_channels_taiwan_new.txt"
+       }
             ]
 }
