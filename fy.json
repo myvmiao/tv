@@ -8,11 +8,14 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lystv/fmapp/94577eb5bd25d36ba1a97c08e59412e155b4d7f8/apk/allinone/v7/allinone;md5;https://gh-proxy.com/https://raw.githubusercontent.com/lystv/fmapp/94577eb5bd25d36ba1a97c08e59412e155b4d7f8/apk/allinone/v7/md5",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
-          {"name":"国内(酒店源)",
-          "type":0,
-          "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt"},
-          {"name":"国内(组播源)",
-          "type":0,
-         "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"}
+       {
+           "name":"国内-酒店源",
+           "type":0,
+           "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt"
+       },
+       {
+           "name":"国内(组播源)",
+           "type":0,
+           "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"}
     ]
 }
