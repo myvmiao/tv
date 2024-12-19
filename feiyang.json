@@ -14,7 +14,7 @@
            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt"
        },
        {
-           "name":"国内(组播源)",
+           "name":"国内-组播源",
            "type":0,
            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"}
             ]
