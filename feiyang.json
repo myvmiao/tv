@@ -27,6 +27,12 @@
            "name":"湾湾直播",
            "type":0,
            "url":"https://freetv.fun/test_channels_taiwan_new.txt"
+       },
+       {
+           "name":"YT湾湾(代理)",
+           "type":0,
+           "url":"https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/tw-yt.txt",
+           "proxy":"proxy"
        }
             ]
 }
