@@ -6,5 +6,7 @@ TVBS新闻-YT,https://gh-proxy.com/raw.githubusercontent.com/ChiSheng9/iptv/refs
 民视新闻-YT,https://gh-proxy.com/raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV17.m3u8
 台视新闻-YT,https://gh-proxy.com/raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV25.m3u8
 三立新闻-YT,https://gh-proxy.com/raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV32.m3u8
+三立iNEWS-YT,https://gh-proxy.com/raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV01.m3u8
+寰宇新聞台-YT,https://gh-proxy.com/raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV02.m3u8
 凤凰卫视-YT,https://gh-proxy.com/raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV43.m3u8
 凤凰资讯-YT,https://gh-proxy.com/raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV22.m3u8
