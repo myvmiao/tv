@@ -694,19 +694,6 @@ IHOT爱院线,http://127.0.0.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 咪咕56,http://127.0.0.1:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 咪咕57,http://127.0.0.1:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
-土鳖直播,#genre#
-中天新闻-YT1,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中天新闻2-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-TVBS新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-TVBS新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-中视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-民视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-凤凰资讯-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-凤凰资讯-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-台视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-三立新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-凤凰卫视-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-
 经典老片,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
