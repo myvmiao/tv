@@ -1,0 +1,61 @@
+{
+    "lives": [
+        {
+            "name": "肥羊直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ok.txt",
+            "ext": "file://v7/allinone;md5;file://v7/md5",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
+       {
+           "name":"国内-酒店源",
+           "type":0,
+           "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt"
+       },
+       {
+           "name":"国内-组播源",
+           "type":0,
+           "url":"https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"
+       },              
+        {
+           "name":"香港直播",
+           "type":0,
+           "url":"https://freetv.fun/test_channels_hong_kong_new.txt"
+       },        
+        {
+           "name":"湾湾直播",
+           "type":0,
+           "url":"https://freetv.fun/test_channels_taiwan_new.txt"
+       },
+       {
+           "name":"YT港湾直播",
+           "type":0,
+           "url":"https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/tw-hk.txt",
+           "proxy":"proxy"
+       }
+            ],
+	"rules":[
+	{
+	   "name": "proxy",
+	   "hosts": [
+	   "googlevideo.com",
+           "raw.githubusercontent.com",
+	   "youtube.com",
+	   "cdn.v82u1l.com",
+	   "cdn.iz8qkg.com",
+	   "cdn.kin6c1.com",
+   	   "c.biggggg.com",
+	   "c.olddddd.com",
+	   "haiwaikan.com",
+	   "www.histar.tv",
+	   "uhibo.com",
+	   ".*boku.*",
+	   ".*nivod.*",
+	   "*.t4tv.hz.cz",
+	   ".*ulivetv.*"
+		    ]
+	   }
+	         ]
+	
+}
