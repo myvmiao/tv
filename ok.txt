@@ -24,6 +24,13 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+中視,rtmp://f13h.mine.nu/sat/tv091
+台視,rtmp://f13h.mine.nu/sat/tv071
+民視,rtmp://f13h.mine.nu/sat/tv051
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
