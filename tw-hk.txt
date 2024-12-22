@@ -1,6 +1,6 @@
 土鳖直播1【肥羊】,#genre#
 中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?quality=1080
-中天新闻2台http://127.0.0.1:35345/youtube/gmKmAVLo6SA?quality=1080
+中天新闻2台,http://127.0.0.1:35345/youtube/gmKmAVLo6SA?quality=1080
 公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8?quality=1080
 民视新闻,http://127.0.0.1:35345/youtube/ylYJSBUgaMA?quality=1080
 台视新闻,http://127.0.0.1:35345/youtube/xL0ch83RAK8?quality=1080
