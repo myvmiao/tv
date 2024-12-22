@@ -1,5 +1,39 @@
-中天新闻-YT1,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV28.m3u8
-中天新闻2-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV49.m3u8
+土鳖直播1【肥羊】,#genre#
+CCTV4 中文国际,http://127.0.0.1:35345/youtube/twhG7_jvA8g?quality=1080
+凤凰卫视资讯台,http://127.0.0.1:35345/youtube/HFib76ySpbU?quality=1080
+中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?quality=1080
+中天新闻2台http://127.0.0.1:35345/youtube/gmKmAVLo6SA?quality=1080
+公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8?quality=1080
+民视新闻,http://127.0.0.1:35345/youtube/ylYJSBUgaMA?quality=1080
+台视新闻,http://127.0.0.1:35345/youtube/xL0ch83RAK8?quality=1080
+中视新闻,http://127.0.0.1:35345/youtube/TCnaIE_SAtM?quality=1080
+华视新闻,http://127.0.0.1:35345/youtube/wM0g8EoUZ_E?quality=1080
+TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc?quality=1080
+TVBS 選新闻,http://127.0.0.1:35345/youtube/d1jUeoc3pio?quality=1080
+三立新闻,http://127.0.0.1:35345/youtube/MV9mI0GChwo?quality=1080
+三立 iNEWS,http://127.0.0.1:35345/youtube/BlKaF8og0jo?quality=1080
+東森新闻,http://127.0.0.1:35345/youtube/E0zhe2gkXBs?quality=1080
+東森财经新闻,http://127.0.0.1:35345/youtube/1I2iq41Akmo?quality=1080
+寰宇新闻,http://127.0.0.1:35345/youtube/6IquAgfvYmc?quality=1080
+寰宇财经新闻,http://127.0.0.1:35345/youtube/WTRQiVWK1jY?quality=1080
+鏡新闻,http://127.0.0.1:35345/youtube/5n0y6b0Q25o?quality=1080
+新闻大白話,http://127.0.0.1:35345/youtube/PsHTW_PNMeg?quality=1080
+ABC NEWS,http://127.0.0.1:35345/youtube/-mvUkiILTqI?quality=1080
+ABC NEWS (Australia),http://127.0.0.1:35345/youtube/vOTiJkg1voo?quality=1080
+FRANCE 24,http://127.0.0.1:35345/youtube/l8PMl7tUDIE?quality=1080
+LiveNOW from FOX,http://127.0.0.1:35345/youtube/rQz7-PP0vio?quality=1080
+ANN NEWS,http://127.0.0.1:35345/youtube/coYw-eVU0Ks?quality=1080
+NHK WORLD,http://127.0.0.1:35345/youtube/f0lYkdA-Gtw?quality=1080
+TBS NEWS,http://127.0.0.1:35345/youtube/ohI356mwBp8?quality=1080
+中天亞洲,http://127.0.0.1:35345/youtube/YfeacCN2ORs?quality=1080
+大愛电视,http://127.0.0.1:35345/youtube/MIqUplvSRWA?quality=1080
+大愛电视2,http://127.0.0.1:35345/youtube/DTNkEm6jaqQ?quality=1080
+中视经典综艺,http://127.0.0.1:35345/youtube/ADDSmXoPDY8?quality=1080
+华视综艺频道,http://127.0.0.1:35345/youtube/UsZi0jxZHZ8?quality=1080
+
+土鳖直播2,#genre#
+中天新闻1台-YT1,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV28.m3u8
+中天新闻2台-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV49.m3u8
 TVBS新闻-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV82.m3u8
 TVBS新闻-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV83.m3u8
 中视新闻-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV09.m3u8
