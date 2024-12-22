@@ -1,6 +1,4 @@
 土鳖直播1【肥羊】,#genre#
-CCTV4 中文国际,http://127.0.0.1:35345/youtube/twhG7_jvA8g?quality=1080
-凤凰卫视资讯台,http://127.0.0.1:35345/youtube/HFib76ySpbU?quality=1080
 中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?quality=1080
 中天新闻2台http://127.0.0.1:35345/youtube/gmKmAVLo6SA?quality=1080
 公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8?quality=1080
@@ -18,6 +16,8 @@ TVBS 選新闻,http://127.0.0.1:35345/youtube/d1jUeoc3pio?quality=1080
 寰宇财经新闻,http://127.0.0.1:35345/youtube/WTRQiVWK1jY?quality=1080
 鏡新闻,http://127.0.0.1:35345/youtube/5n0y6b0Q25o?quality=1080
 新闻大白話,http://127.0.0.1:35345/youtube/PsHTW_PNMeg?quality=1080
+凤凰卫视资讯台,http://127.0.0.1:35345/youtube/HFib76ySpbU?quality=1080
+CCTV4 中文国际,http://127.0.0.1:35345/youtube/twhG7_jvA8g?quality=1080
 ABC NEWS,http://127.0.0.1:35345/youtube/-mvUkiILTqI?quality=1080
 ABC NEWS (Australia),http://127.0.0.1:35345/youtube/vOTiJkg1voo?quality=1080
 FRANCE 24,http://127.0.0.1:35345/youtube/l8PMl7tUDIE?quality=1080
