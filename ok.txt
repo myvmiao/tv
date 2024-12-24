@@ -1,4 +1,4 @@
-央视【肥羊】,#genre#
+央视-肥羊,#genre#
 CCTV1,http://127.0.0.1:35345/ysptp/cctv1.m3u8
 CCTV1,http://127.0.0.1:35345/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV1,http://127.0.0.1:35345/itv/5000000004000002226.m3u8?cdn=bestzb
@@ -83,7 +83,7 @@ CGTNsp,http://192.168.2.3:35455/ysptp/cgtnsp.m3u8
 中国教育1台,http://127.0.0.1:35345/itv/5000000002000002652.m3u8?cdn=bestzb
 中国教育4台,http://127.0.0.1:35345/itv/5000000011000031126.m3u8?cdn=bestzb
 
-卫视【肥羊】,#genre#
+卫视-肥羊,#genre#
 北京卫视,http://127.0.0.1:35345/itv/6000000001000020451.m3u8?cdn=wasusyt
 北京卫视,http://127.0.0.1:35345/itv/1000000005000265027.m3u8?cdn=ystenlive
 北京纪实科教,http://127.0.0.1:35345/itv/1000000001000001910.m3u8?cdn=ystenlive
@@ -155,7 +155,7 @@ CGTNsp,http://192.168.2.3:35455/ysptp/cgtnsp.m3u8
 重庆卫视,http://127.0.0.1:35345/itv/1000000001000001096.m3u8?cdn=ystenlive
 重庆卫视,http://127.0.0.1:35345/itv/1000000005000265017.m3u8?cdn=ystenlive
 
-其他【肥羊】,#genre#
+其他-肥羊】,#genre#
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LOUPE4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -228,7 +228,7 @@ IHOT爱悬疑,http://127.0.0.1:35345/itv/6000000006000050630.m3u8?cdn=wasusyt
 IHOT爱幼教,http://127.0.0.1:35345/itv/6000000006000180630.m3u8?cdn=wasusyt
 IHOT爱院线,http://127.0.0.1:35345/itv/6000000006000030630.m3u8?cdn=wasusyt
 
-咪咕体育【肥羊】,#genre#
+咪咕体育-肥羊,#genre#
 咪咕1,http://127.0.0.1:35345/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪咕2,http://127.0.0.1:35345/itv/3000000001000005969.m3u8?cdn=FifastbLive
 咪咕3,http://127.0.0.1:35345/itv/3000000001000007218.m3u8?cdn=FifastbLive
