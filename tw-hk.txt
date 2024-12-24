@@ -1,4 +1,4 @@
-土鳖直播1【肥羊】,#genre#
+土鳖直播1-肥羊,#genre#
 中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
 中天新闻2台,http://127.0.0.1:35345/youtube/gmKmAVLo6SA
 公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8
@@ -31,7 +31,7 @@ TBS NEWS,http://127.0.0.1:35345/youtube/ohI356mwBp8
 中视经典综艺,http://127.0.0.1:35345/youtube/ADDSmXoPDY8
 华视综艺频道,http://127.0.0.1:35345/youtube/UsZi0jxZHZ8?quality=1080
 
-土鳖直播2,#genre#
+土鳖直播2-github,#genre#
 中天新闻1台-YT1,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV28.m3u8
 中天新闻2台-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV49.m3u8
 TVBS新闻-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV82.m3u8
@@ -45,7 +45,345 @@ TVBS新闻-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master
 凤凰卫视-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV43.m3u8
 凤凰资讯-YT,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV22.m3u8
 
-湾湾频道3,#genre#
+湾湾频道3-超级电视,#genre#
+爱尔达影剧直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165154&pathid=0
+爱尔达影剧直播_高清,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165154&pathid=1
+爱尔达影剧直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165154&pathid=2
+爱尔达影剧直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165154&pathid=3
+AFC 亚洲旅游台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165153&pathid=0
+AFC 亚洲旅游台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165153&pathid=1
+AFC 亚洲旅游台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165153&pathid=2
+爱尔达综合台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=0
+爱尔达综合台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=1
+爱尔达综合台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165152&pathid=2
+星空电影台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165150&pathid=0
+星空电影台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165150&pathid=1
+星空电影台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165150&pathid=2
+星卫电影直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165149&pathid=0
+星卫电影直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165149&pathid=1
+美亚电影直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165148&pathid=0
+美亚电影直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165148&pathid=1
+美亚电影直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165148&pathid=2
+东森幼幼 Yoyo TV直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=0
+东森幼幼 Yoyo TV直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=1
+东森幼幼 Yoyo TV直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=2
+EYETV 戏剧直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165146&pathid=0
+EYETV 戏剧直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165146&pathid=1
+EYETV 旅游直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165145&pathid=0
+EYETV 旅游直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165145&pathid=1
+卫视电影台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165144&pathid=0
+卫视电影台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165144&pathid=1
+卫视中文台 Star Movies Chinese直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165143&pathid=0
+卫视中文台 Star Movies Chinese直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165143&pathid=1
+MTV Live直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=0
+MTV Live直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165142&pathid=1
+博斯无限直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165141&pathid=0
+博斯无限直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165141&pathid=1
+博斯网球 HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165140&pathid=0
+博斯高球2 HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165139&pathid=0
+博斯运动 2直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165138&pathid=0
+博斯运动 2直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165138&pathid=1
+博斯运动 1直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165137&pathid=0
+博斯运动 1直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165137&pathid=1
+博斯运动 1直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165137&pathid=2
+阿里郎 Arirang直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=0
+阿里郎 Arirang直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165136&pathid=1
+靖天卡通台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165135&pathid=0
+靖天卡通台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165135&pathid=1
+龙详时代直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165134&pathid=0
+龙详时代直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165134&pathid=1
+亚洲旅游 TLC Asia直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165133&pathid=0
+亚洲旅游 TLC Asia直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165133&pathid=1
+美食星球直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165132&pathid=0
+美食星球直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165132&pathid=1
+亚洲美食直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165131&pathid=0
+亚洲美食直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165131&pathid=1
+龙华洋片 Lunghua Western直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165130&pathid=0
+龙华洋片 Lunghua Western直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165130&pathid=1
+好消息 2直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165129&pathid=0
+好消息 2直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165129&pathid=1
+纬来精彩直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165128&pathid=0
+纬来精彩直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165128&pathid=1
+纬来育乐直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165127&pathid=0
+纬来育乐直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165127&pathid=1
+纬来综合台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165126&pathid=0
+纬来综合台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165126&pathid=1
+纬来戏剧台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165125&pathid=0
+纬来戏剧台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165125&pathid=1
+纬来体育台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165124&pathid=0
+纬来体育台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165124&pathid=1
+纬来体育台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165124&pathid=2
+纬来体育台直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165124&pathid=3
+纬来电影台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165123&pathid=0
+纬来电影台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165123&pathid=1
+纬来日本台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
+纬来日本台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=1
+年代新闻直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165121&pathid=0
+年代新闻直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165121&pathid=1
+靖天咨询台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165120&pathid=0
+靖天国际台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165119&pathid=0
+龙华电影 Lunghua Movie直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165118&pathid=0
+龙华偶像直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165117&pathid=0
+龙华经典台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165116&pathid=0
+龙华戏剧台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165115&pathid=0
+非凡新闻台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165113&pathid=0
+大爱1台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165112&pathid=0
+寰宇新闻台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165111&pathid=0
+寰宇财经直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165110&pathid=0
+东森财经新闻 ETTV Business直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165109&pathid=0
+东森超视直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165108&pathid=0
+东森戏剧 ETTV Drama直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165107&pathid=0
+东森综合 ETTV Metro直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0
+东森洋片 ETTV Western直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165105&pathid=0
+东森电影 ETTV Movie直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165104&pathid=0
+东森新闻 ETTV News直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165103&pathid=0
+三立都会台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165102&pathid=0
+三立综合 Sanli Metro直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165101&pathid=0
+三立戏剧台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165100&pathid=0
+三立台湾 Sanli Taiwan直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=0
+三立台湾 Sanli Taiwan直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=1
+三立台湾 Sanli Taiwan直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=2
+三立台湾 Sanli Taiwan直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165099&pathid=3
+CatchPlay 电影台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165098&pathid=0
+AXN Taiwan直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165097&pathid=0
+CINEMAX直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165096&pathid=0
+Hollywood Movies直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165095&pathid=0
+HBO_HITS直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165094&pathid=0
+HBO_HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165093&pathid=0
+八大娱乐 GTV Entertainment直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165092&pathid=0
+八大戏剧 GTV Drama直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165091&pathid=0
+八大综合 GTV Metro直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165090&pathid=0
+八大第一 GTV First直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165089&pathid=0
+公视 CTV直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165088&pathid=0
+华视 CTS HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165087&pathid=0
+民视台湾台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165086&pathid=0
+民视新闻台 FTV News直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165085&pathid=0
+民视 HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165084&pathid=0
+中视新闻台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165083&pathid=0
+中视 HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165082&pathid=0
+台视综合台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165081&pathid=0
+台视新闻台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165080&pathid=0
+台视 TTV HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165079&pathid=0
+中天亚洲台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165078&pathid=0
+中天综合 CTI Metro直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165077&pathid=0
+中天娱乐 CTI Entertaiment直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165076&pathid=0
+中天新闻 HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165075&pathid=0
+中天新闻 HD直播_TVATW-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165075&pathid=1
+TVBS HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165074&pathid=0
+TVBS 欢乐台 直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165073&pathid=0
+TVBS News 新闻台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165072&pathid=0
+BBC News直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490579&pathid=0
+CNN直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490578&pathid=0
+Discovery Turbo直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490577&pathid=0
+DMAX直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490576&pathid=0
+Discovery Science直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490575&pathid=0
+Discovery Science直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490575&pathid=1
+Discovery Channel直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490574&pathid=0
+Discovery Channel直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490574&pathid=1
+Discovery Asia直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490573&pathid=0
+HBO Signature直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490572&pathid=0
+HBO Hits直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490571&pathid=0
+HBO HD直播_TVATW,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490570&pathid=0
+HBO HD直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490570&pathid=1
+HBO Family直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490569&pathid=0
+HBO Family直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490569&pathid=1
+凤凰卫视中文台直播_线路3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=100&pathid=0
+凤凰卫视中文台直播_22,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=100&pathid=1
+凤凰卫视中文台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=100&pathid=2
+凤凰卫视中文台直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=100&pathid=3
+凤凰卫视中文台直播_7,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=100&pathid=4
+凤凰卫视中文台直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=100&pathid=5
+凤凰卫视资讯台直播_US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=0
+凤凰卫视资讯台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=1
+凤凰卫视资讯台直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=2
+凤凰卫视资讯台直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=3
+凤凰卫视资讯台直播_7,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=4
+凤凰卫视资讯台直播_8,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=5
+凤凰卫视资讯台直播_7,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=6
+凤凰卫视香港台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=98&pathid=0
+凤凰卫视香港台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=98&pathid=1
+RHK32直播_TP-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=97&pathid=0
+RHK32直播_TP-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=97&pathid=1
+RHK32直播_Official,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=97&pathid=2
+RHK32直播_Official Backup,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=97&pathid=3
+RHK32直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=97&pathid=4
+RHK31直播_TP-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=96&pathid=0
+RHK31直播_TP-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=96&pathid=1
+RHK31直播_Official,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=96&pathid=2
+RHK31直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=96&pathid=3
+香港开电视直播_高速2-USDMB,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=95&pathid=0
+香港开电视直播_备用-USDMB,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=95&pathid=1
+ViuTv直播_TP-HK,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=94&pathid=0
+ViuTv直播_TP-HK,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=94&pathid=1
+ViuTv直播_TP-HK,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=94&pathid=2
+ViuTv直播_TP-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=94&pathid=3
+ViuTv直播_TP-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=94&pathid=4
+ViuTv直播_TP-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=94&pathid=5
+香港卫视直播_PC/WAP-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=93&pathid=0
+香港有线603台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=92&pathid=0
+香港有线603台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=92&pathid=1
+香港有线603台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=92&pathid=2
+香港有线603台直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=92&pathid=3
+天映经典直播_HK-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=90&pathid=0
+天映经典直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=90&pathid=1
+美亚电影直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=89&pathid=0
+美亚电影直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=89&pathid=1
+TVB经典直播_Android/IOS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=88&pathid=0
+TVB娱乐新闻直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=87&pathid=0
+寰宇新闻台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=85&pathid=0
+寰宇新闻台直播_TVATW-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=85&pathid=1
+寰宇新闻2台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=84&pathid=0
+寰宇新闻2台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=84&pathid=1
+无线财经台直播_TVB-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=79&pathid=0
+无线财经台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=79&pathid=1
+无线财经台直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=79&pathid=2
+无线财经台直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=79&pathid=3
+无线财经台直播_TVB-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=79&pathid=4
+无线财经台直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=79&pathid=5
+TVB翡翠台直播_SFMS2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=78&pathid=0
+TVB翡翠台直播_TVB2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=78&pathid=1
+TVB翡翠台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=78&pathid=2
+TVB翡翠台直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=78&pathid=3
+TVB明珠台直播_HK-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=77&pathid=0
+TVB明珠台直播_HK-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=77&pathid=1
+TVB明珠台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=77&pathid=2
+TVB明珠台直播_TVB-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=77&pathid=3
+TVB明珠台直播_TVB-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=77&pathid=4
+TVB明珠台直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=77&pathid=5
+TVB明珠台直播_7,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=77&pathid=6
+TVB星河台直播_L-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=0
+TVB星河台直播_L-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=1
+TVB星河台直播_HK-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=2
+TVB星河台直播_L-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=3
+TVB星河台直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=4
+TVBJ2直播_TVB-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=74&pathid=0
+TVBJ2直播_HK-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=74&pathid=1
+TVBJ2直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=74&pathid=2
+TVBJ2直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=74&pathid=3
+TVBJ2直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=74&pathid=4
+TVBJ2直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=74&pathid=5
+无线新闻台直播_HK-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=73&pathid=0
+无线新闻台直播_TVB-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=73&pathid=1
+无线新闻台直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=73&pathid=2
+无线新闻台直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=73&pathid=3
+无线新闻台直播_7,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=73&pathid=4
+无线新闻台直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=73&pathid=5
+TVB功夫台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=72&pathid=0
+有线新闻台直播_official,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=62&pathid=0
+有线新闻台直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=62&pathid=1
+有线新闻台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=62&pathid=2
+有线电影台直播_线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=61&pathid=0
+有线18台直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=59&pathid=0
+有线18台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=59&pathid=1
+有线18台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=59&pathid=2
+有线18台直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=59&pathid=3
+有线18台直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=59&pathid=4
+有线财经直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=58&pathid=0
+有线财经直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=58&pathid=1
+香港国际财经直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=57&pathid=0
+香港国际财经直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=57&pathid=1
+奇妙资讯直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=56&pathid=0
+Viu Six直播_TP-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=55&pathid=0
+Viu Six直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=55&pathid=1
+Now爆谷星影直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=54&pathid=0
+Now爆谷星影直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=54&pathid=1
+Now財經直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=53&pathid=0
+Now新闻直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=52&pathid=0
+Now新闻直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=52&pathid=1
+now直播直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=51&pathid=0
+Now Sports直播_YH-MS,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=50&pathid=0
+Now Sports直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=50&pathid=1
+澳视生活台直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=49&pathid=0
+澳视卫星台MACAU直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=48&pathid=0
+台湾中视直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=47&pathid=0
+台湾中视直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=47&pathid=1
+台湾华视直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=46&pathid=0
+台湾华视直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=46&pathid=1
+台湾台视直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=0
+台湾台视直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=1
+台湾民视直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=0
+台湾民视直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=1
+台湾公视直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=43&pathid=0
+台湾公视直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=43&pathid=1
+中天新闻台直播_线路1-YH,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=0
+中天新闻台直播_高速2-HLTV,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=1
+中天新闻台直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=2
+中天新闻台直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=3
+中天综合台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=41&pathid=0
+中天综合台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=41&pathid=1
+中天综合台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=41&pathid=2
+中天娱乐台直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=40&pathid=0
+中天娱乐台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=40&pathid=1
+中天娱乐台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=40&pathid=2
+中天亚洲台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=39&pathid=0
+中天亚洲台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=39&pathid=1
+中天亚洲台直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=39&pathid=2
+TVBS新闻台直播_高清备用,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=38&pathid=0
+TVBS新闻台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=38&pathid=1
+TVBS综合台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=37&pathid=0
+TVBS综合台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=37&pathid=1
+TVBS欢乐台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=36&pathid=0
+TVBS欢乐台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=36&pathid=1
+壹电视综合台直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=35&pathid=0
+壹电视综合台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=35&pathid=1
+壹电视新闻台直播_线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=34&pathid=0
+壹电视新闻台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=34&pathid=1
+东森新闻台直播_备用-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=33&pathid=0
+东森新闻台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=33&pathid=1
+东森综合台直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=0
+东森综合台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=1
+东森幼幼台直播_线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=31&pathid=0
+东森亚洲台直播_线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=30&pathid=0
+东森电影台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=29&pathid=0
+东森电影台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=29&pathid=1
+东森洋片台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=0
+东森洋片台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=1
+东森洋片台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=2
+东森财经新闻台直播_线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=27&pathid=0
+三立新闻台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=26&pathid=0
+三立新闻台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=26&pathid=1
+三立都会台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=25&pathid=0
+三立都会台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=25&pathid=1
+三立台湾台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=24&pathid=0
+三立台湾台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=24&pathid=1
+三立国际台直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=23&pathid=0
+八大综合台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=22&pathid=0
+八大第一台直播_线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=21&pathid=0
+八大娱乐K台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=20&pathid=0
+中视新闻台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=19&pathid=0
+中视综合台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=18&pathid=0
+中视综艺台直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=17&pathid=0
+卫视电影台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=16&pathid=0
+天映电影台直播_高清线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=15&pathid=0
+天映电影台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=15&pathid=1
+龙祥电影台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=14&pathid=0
+龙祥电影台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=14&pathid=1
+龙祥时代电影台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=13&pathid=0
+纬来综合台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=12&pathid=0
+纬来体育台直播_英文解说,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=0
+纬来体育台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=1
+纬来体育台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=2
+纬来体育台直播_4,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=3
+纬来体育台直播_5,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=4
+纬来体育台直播_6,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=5
+纬来体育台直播_7,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=6
+纬来日本台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=10&pathid=0
+纬来日本台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=10&pathid=1
+纬来电影台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=9&pathid=0
+纬来电影台直播_线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=9&pathid=1
+年代新闻台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=7&pathid=0
+年代新闻台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=7&pathid=1
+非凡新闻台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=6&pathid=0
+非凡新闻台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=6&pathid=1
+非凡新闻台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=6&pathid=2
+民视新闻台直播_1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=5&pathid=0
+民视新闻台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=5&pathid=1
+民视新闻台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=5&pathid=2
+卫视中文台直播_线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=0
+卫视中文台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=1
+卫视中文台直播_3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=2
+
+湾湾频道4-4gtv,#genre#
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
