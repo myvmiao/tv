@@ -39,21 +39,22 @@
 	{
 	   "name": "proxy",
 	   "hosts": [
-	   "googlevideo.com",
-           "raw.githubusercontent.com",
-	   "youtube.com",
-	   "cdn.v82u1l.com",
-	   "cdn.iz8qkg.com",
-	   "cdn.kin6c1.com",
-   	   "c.biggggg.com",
-	   "c.olddddd.com",
-	   "haiwaikan.com",
-	   "www.histar.tv",
-	   "uhibo.com",
-	   ".*boku.*",
-	   ".*nivod.*",
-	   "*.t4tv.hz.cz",
-	   ".*ulivetv.*"
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+         "4gtv.tv",
+         "cdn.hinet.net",
+        ".*nivod.*",
+        ".*ulivetv.*"
 		    ]
 	   }
 	         ]
