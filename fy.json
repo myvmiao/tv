@@ -39,7 +39,6 @@
 	{
 	   "name": "proxy",
 	   "hosts": [
-	   "googlevideo.com",
            "raw.githubusercontent.com",
            "googlevideo.com",
            "cdn.v82u1l.com",
