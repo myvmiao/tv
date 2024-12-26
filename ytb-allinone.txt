@@ -1,0 +1,31 @@
+中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
+中天新闻2台,http://127.0.0.1:35345/youtube/gmKmAVLo6SA
+公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8
+民视新闻,http://127.0.0.1:35345/youtube/ylYJSBUgaMA
+台视新闻,http://127.0.0.1:35345/youtube/xL0ch83RAK8
+中视新闻,http://127.0.0.1:35345/youtube/TCnaIE_SAtM
+华视新闻,http://127.0.0.1:35345/youtube/wM0g8EoUZ_E
+TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc
+TVBS 選新闻,http://127.0.0.1:35345/youtube/d1jUeoc3pio
+三立新闻,http://127.0.0.1:35345/youtube/MV9mI0GChwo
+三立 iNEWS,http://127.0.0.1:35345/youtube/BlKaF8og0jo
+東森新闻,http://127.0.0.1:35345/youtube/E0zhe2gkXBs
+東森财经新闻,http://127.0.0.1:35345/youtube/1I2iq41Akmo
+寰宇新闻,http://127.0.0.1:35345/youtube/6IquAgfvYmc
+寰宇财经新闻,http://127.0.0.1:35345/youtube/WTRQiVWK1jY
+鏡新闻,http://127.0.0.1:35345/youtube/5n0y6b0Q25o
+新闻大白話,http://127.0.0.1:35345/youtube/PsHTW_PNMeg
+凤凰卫视资讯台,http://127.0.0.1:35345/youtube/HFib76ySpbU
+CCTV4 中文国际,http://127.0.0.1:35345/youtube/twhG7_jvA8g
+ABC NEWS,http://127.0.0.1:35345/youtube/-mvUkiILTqI
+ABC NEWS (Australia),http://127.0.0.1:35345/youtube/vOTiJkg1voo
+FRANCE 24,http://127.0.0.1:35345/youtube/l8PMl7tUDIE
+LiveNOW from FOX,http://127.0.0.1:35345/youtube/rQz7-PP0vio
+ANN NEWS,http://127.0.0.1:35345/youtube/coYw-eVU0Ks
+NHK WORLD,http://127.0.0.1:35345/youtube/f0lYkdA-Gtw
+TBS NEWS,http://127.0.0.1:35345/youtube/ohI356mwBp8
+中天亞洲,http://127.0.0.1:35345/youtube/YfeacCN2ORs
+大愛电视,http://127.0.0.1:35345/youtube/MIqUplvSRWA
+大愛电视2,http://127.0.0.1:35345/youtube/DTNkEm6jaqQ
+中视经典综艺,http://127.0.0.1:35345/youtube/ADDSmXoPDY8
+华视综艺频道,http://127.0.0.1:35345/youtube/UsZi0jxZHZ8?quality=1080
