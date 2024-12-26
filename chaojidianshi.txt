@@ -70,8 +70,8 @@ MTV Live直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=2601
 纬来电影台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165123&pathid=1
 纬来日本台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=0
 纬来日本台直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165122&pathid=1
-年代新闻直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165121&pathid=0
-年代新闻直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165121&pathid=1
+年代新闻直播_TVATW-HL,https://ushls.ballbar.net/niandainews_twn/playlist-15.m3u8a?t=1735221538&token=bb281717a07773ae8ef2ce0699d33477
+年代新闻直播_2,https://ushls.ballbar.net/niandainews_twn/playlist-25.m3u8a?t=1735221577&token=ae345db7fe370bb58781452b3cfbaa7a
 靖天咨询台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165120&pathid=0
 靖天国际台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165119&pathid=0
 龙华电影 Lunghua Movie直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165118&pathid=0
@@ -88,7 +88,7 @@ MTV Live直播_2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=2601
 东森综合 ETTV Metro直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0
 东森洋片 ETTV Western直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165105&pathid=0
 东森电影 ETTV Movie直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165104&pathid=0
-东森新闻 ETTV News直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165103&pathid=0
+东森新闻 ETTV News直播_TVATW-HL,https://ushls.ballbar.net/ettvnews/playlist-25.m3u8a?t=1735221629&token=5cbe4be35ffc54c11545c218184b4429
 三立都会台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165102&pathid=0
 三立综合 Sanli Metro直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165101&pathid=0
 三立戏剧台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165100&pathid=0
@@ -119,8 +119,7 @@ HBO_HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id
 中天亚洲台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165078&pathid=0
 中天综合 CTI Metro直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165077&pathid=0
 中天娱乐 CTI Entertaiment直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165076&pathid=0
-中天新闻 HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165075&pathid=0
-中天新闻 HD直播_TVATW-US,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165075&pathid=1
+中天新闻 HD直播_TVATW-HL,中天新闻 HD直播_TVATW-HL,https://ushls.ballbar.net/ctinews/playlist-25.m3u8a?t=1735221329&token=1e375ee26c1de362793799ee30d5d07e
 TVBS HD直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165074&pathid=0
 TVBS 欢乐台 直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165073&pathid=0
 TVBS News 新闻台直播_TVATW-HL,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165072&pathid=0
