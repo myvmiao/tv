@@ -1,9 +1,5 @@
 #EXTINF:-1,TVB 翡翠台
 https://iptv.vip-tptv.xyz/cao.php?id=feicui
-#EXTINF:-1,TVB 无线新闻台
-https://iptv.vip-tptv.xyz/cao.php?id=tvb-news
-#EXTINF:-1,TVB 明珠台
-https://iptv.vip-tptv.xyz/cao.php?id=pearl
 #EXTINF:-1,TVB PLUS
 https://iptv.vip-tptv.xyz/cao.php?id=tvb-plus
 #EXTINF:-1,凤凰卫视 资讯台
@@ -12,82 +8,12 @@ https://iptv.vip-tptv.xyz/cao.php?id=phtv-info
 https://iptv.vip-tptv.xyz/cao.php?id=phtv-cn
 #EXTINF:-1,凤凰卫视 香港台
 https://iptv.vip-tptv.xyz/cao.php?id=phtv-hk
-#EXTINF:-1,HOY 资讯台
-https://iptv.vip-tptv.xyz/cao.php?id=hoy-info
-#EXTINF:-1,HOY TV
-https://iptv.vip-tptv.xyz/cao.php?id=hoytv
-#EXTINF:-1,HOY国际财经
-https://iptv.vip-tptv.xyz/cao.php?id=hoy-ibc
-#EXTINF:-1,ViuTV
-https://iptv.vip-tptv.xyz/cao.php?id=viutv
-#EXTINF:-1,ViuTV6
-https://iptv.vip-tptv.xyz/cao.php?id=viutv6
-#EXTINF:-1,香港卫视
-https://iptv.vip-tptv.xyz/cao.php?id=hks
-#EXTINF:-1,澳亚卫视
-https://iptv.vip-tptv.xyz/cao.php?id=mastv
-#EXTINF:-1,澳门卫视
-https://iptv.vip-tptv.xyz/cao.php?id=mstv
-#EXTINF:-1,澳门莲花卫视
-https://iptv.vip-tptv.xyz/cao.php?id=lotustv
-#EXTINF:-1,澳门资讯
-https://iptv.vip-tptv.xyz/cao.php?id=tdm-information
-#EXTINF:-1,澳视澳门
-https://iptv.vip-tptv.xyz/cao.php?id=tdm
-#EXTINF:-1,HKC 18台
-https://iptv.vip-tptv.xyz/cao.php?id=hkc18
-#EXTINF:-1,港台电视 31
-https://iptv.vip-tptv.xyz/cao.php?id=rthk31
-#EXTINF:-1,港台电视 32
-https://iptv.vip-tptv.xyz/cao.php?id=rthk32
-#EXTINF:-1,亚洲卫视
-https://iptv.vip-tptv.xyz/cao.php?id=mytvsuper-oly817
-#EXTINF:-1,Now 新闻台
-https://iptv.vip-tptv.xyz/cao.php?id=now-news
-#EXTINF:-1,Now 直播台
-https://iptv.vip-tptv.xyz/cao.php?id=now-direct
-#EXTINF:-1,民视
-https://iptv.vip-tptv.xyz/cao.php?id=ftv
-#EXTINF:-1,民视台湾台
-https://iptv.vip-tptv.xyz/cao.php?id=ftv-tw
-#EXTINF:-1,民视第一台
-https://iptv.vip-tptv.xyz/cao.php?id=ftv-one
-#EXTINF:-1,纬来日本
-https://iptv.vip-tptv.xyz/cao.php?id=videoland-japan
-#EXTINF:-1,TVBS 精采台
-https://iptv.vip-tptv.xyz/cao.php?id=tvbs-jc
-#EXTINF:-1,TVBS 欢乐台
-https://iptv.vip-tptv.xyz/cao.php?id=tvbs-huanle
-#EXTINF:-1,三立台湾台
-https://iptv.vip-tptv.xyz/cao.php?id=settv-taiwan
-#EXTINF:-1,台视
-https://iptv.vip-tptv.xyz/cao.php?id=ttv
-#EXTINF:-1,中视
-https://iptv.vip-tptv.xyz/cao.php?id=ctv
-#EXTINF:-1,中视菁采台
-https://iptv.vip-tptv.xyz/cao.php?id=bravo
-#EXTINF:-1,中天亚洲
-https://iptv.vip-tptv.xyz/cao.php?id=cti-asia
-#EXTINF:-1,华视
-https://iptv.vip-tptv.xyz/cao.php?id=cts
-#EXTINF:-1,好消息
-https://iptv.vip-tptv.xyz/cao.php?id=goodtv
-#EXTINF:-1,KLT-靖天国际台
-https://iptv.vip-tptv.xyz/cao.php?id=jtgj
-#EXTINF:-1,靖天综合台
-https://iptv.vip-tptv.xyz/cao.php?id=jtzh
-#EXTINF:-1,客家电视台
-https://iptv.vip-tptv.xyz/cao.php?id=hakkatv
-#EXTINF:-1,大爱一台
-https://iptv.vip-tptv.xyz/cao.php?id=daai1
-#EXTINF:-1,大爱二台
-https://iptv.vip-tptv.xyz/cao.php?id=daai2
-#EXTINF:-1,ARIRANG 阿里郎频道
-https://iptv.vip-tptv.xyz/cao.php?id=arirang
 #EXTINF:-1,中天新闻
 https://iptv.vip-tptv.xyz/cao.php?id=cti-news
 #EXTINF:-1,TVBS 新闻台
 https://iptv.vip-tptv.xyz/cao.php?id=tvbs-news
+#EXTINF:-1,中天亚洲
+https://iptv.vip-tptv.xyz/cao.php?id=cti-asia
 #EXTINF:-1,TVBS HD
 https://iptv.vip-tptv.xyz/cao.php?id=tvbs-hd
 #EXTINF:-1,东森新闻
@@ -118,6 +44,22 @@ https://iptv.vip-tptv.xyz/cao.php?id=mnews
 https://iptv.vip-tptv.xyz/cao.php?id=cts-news
 #EXTINF:-1,靖天资讯台
 https://iptv.vip-tptv.xyz/cao.php?id=jtzx
+#EXTINF:-1,民视
+https://iptv.vip-tptv.xyz/cao.php?id=ftv
+#EXTINF:-1,TVBS 精采台
+https://iptv.vip-tptv.xyz/cao.php?id=tvbs-jc
+#EXTINF:-1,台视
+https://iptv.vip-tptv.xyz/cao.php?id=ttv
+#EXTINF:-1,中视
+https://iptv.vip-tptv.xyz/cao.php?id=ctv
+#EXTINF:-1,华视
+https://iptv.vip-tptv.xyz/cao.php?id=cts
+#EXTINF:-1,好消息
+https://iptv.vip-tptv.xyz/cao.php?id=goodtv
+#EXTINF:-1,KLT-靖天国际台
+https://iptv.vip-tptv.xyz/cao.php?id=jtgj
+#EXTINF:-1,靖天综合台
+https://iptv.vip-tptv.xyz/cao.php?id=jtzh
 #EXTINF:-1,龙华电影台
 https://iptv.vip-tptv.xyz/cao.php?id=ltv-movies
 #EXTINF:-1,龙华戏剧台
@@ -128,65 +70,9 @@ https://iptv.vip-tptv.xyz/cao.php?id=ltv-rihan
 https://iptv.vip-tptv.xyz/cao.php?id=gtv-jct
 #EXTINF:-1,八大综艺
 https://iptv.vip-tptv.xyz/cao.php?id=grt
-#EXTINF:-1,采昌影剧台
-https://iptv.vip-tptv.xyz/cao.php?id=caichang
-#EXTINF:-1,猪哥亮歌厅秀
-https://iptv.vip-tptv.xyz/cao.php?id=zglgtx
 #EXTINF:-1,民视综艺
 https://iptv.vip-tptv.xyz/cao.php?id=ftv-reality
 #EXTINF:-1,民视影剧
 https://iptv.vip-tptv.xyz/cao.php?id=ftv-drama
 #EXTINF:-1,中视经典台
 https://iptv.vip-tptv.xyz/cao.php?id=ctv-classic
-#EXTINF:-1,靖洋戏剧台
-https://iptv.vip-tptv.xyz/cao.php?id=jyxj
-#EXTINF:-1,靖天映画
-https://iptv.vip-tptv.xyz/cao.php?id=jtyh
-#EXTINF:-1,靖天电影台
-https://iptv.vip-tptv.xyz/cao.php?id=jtdy
-#EXTINF:-1,靖天戏剧台
-https://iptv.vip-tptv.xyz/cao.php?id=jtxjt
-#EXTINF:-1,韩国娱乐台 KMTV
-https://iptv.vip-tptv.xyz/cao.php?id=kmtv
-#EXTINF:-1,公视戏剧
-https://iptv.vip-tptv.xyz/cao.php?id=gsxj
-#EXTINF:-1,影迷数位电影台
-https://iptv.vip-tptv.xyz/cao.php?id=fans-cinema
-#EXTINF:-1,视纳华仁纪实频道
-https://iptv.vip-tptv.xyz/cao.php?id=cnex
-#EXTINF:-1,博斯网球
-https://iptv.vip-tptv.xyz/cao.php?id=sportcast-tennis
-#EXTINF:-1,博斯运动-1
-https://iptv.vip-tptv.xyz/cao.php?id=sportcast1
-#EXTINF:-1,博斯运动-2
-https://iptv.vip-tptv.xyz/cao.php?id=sportcast2
-#EXTINF:-1,博斯无限
-https://iptv.vip-tptv.xyz/cao.php?id=sportcast-wx
-#EXTINF:-1,博斯高球-1
-https://iptv.vip-tptv.xyz/cao.php?id=sportcast-golf1
-#EXTINF:-1,博斯高球-2
-https://iptv.vip-tptv.xyz/cao.php?id=sportcast-golf2
-#EXTINF:-1,纬来体育
-https://iptv.vip-tptv.xyz/cao.php?id=videoland-sport
-#EXTINF:-1,ELEVEN体育-1
-https://iptv.vip-tptv.xyz/cao.php?id=eleven-sport1
-#EXTINF:-1,ELEVEN体育-2
-https://iptv.vip-tptv.xyz/cao.php?id=eleven-sport2
-#EXTINF:-1,时尚运动 X
-https://iptv.vip-tptv.xyz/cao.php?id=ssydx
-#EXTINF:-1,TRACE Sport Stars
-https://iptv.vip-tptv.xyz/cao.php?id=trace-sport-stars
-#EXTINF:-1,智林体育台
-https://iptv.vip-tptv.xyz/cao.php?id=zl-sports
-#EXTINF:-1,靖天卡通台
-https://iptv.vip-tptv.xyz/cao.php?id=jtkt
-#EXTINF:-1,靖天育乐台
-https://iptv.vip-tptv.xyz/cao.php?id=jtyl
-#EXTINF:-1,靖洋卡通 NiceBingo
-https://iptv.vip-tptv.xyz/cao.php?id=nice-bingo
-#EXTINF:-1,达文西频道
-https://iptv.vip-tptv.xyz/cao.php?id=da-vinci
-#EXTINF:-1,动漫秀场
-https://iptv.vip-tptv.xyz/cao.php?id=dmxc
-#EXTINF:-1,哆啦A梦
-https://iptv.vip-tptv.xyz/cao.php?id=astro-oly8
