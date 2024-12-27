@@ -287,15 +287,13 @@ IHOT爱院线,http://127.0.0.1:35345/itv/6000000006000030630.m3u8?cdn=wasusyt
 咪咕56,http://127.0.0.1:35345/itv/1000000006000270005.m3u8?cdn=ystenlive
 咪咕57,http://127.0.0.1:35345/itv/1000000006000270006.m3u8?cdn=ystenlive
 
-湾湾频道,#genre#
+湾湾直播,#genre#
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
-中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
@@ -309,7 +307,6 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8 
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -331,16 +328,3 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS娱乐台,http://37.27.111.214:8080/live/24/hls.m3u8
-HITS,http://37.27.111.214:8080/live/28/hls.m3u8
-亚洲旅游台,http://37.27.111.214:8080/live/10/hls.m3u8
-三立综合台,http://37.27.111.214:8080/live/31/hls.m3u8
-民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
-民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
-Global,http://37.27.111.214:8080/live/53/hls.m3u8
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-华视,http://37.27.111.214:8080/live/8/hls.m3u8
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
