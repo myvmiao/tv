@@ -5,6 +5,7 @@ CCTV3,http://127.0.0.1:35345/ysptp/cctv3.m3u8
 CCTV4,http://127.0.0.1:35345/ysptp/cctv4.m3u8
 CCTV5,http://127.0.0.1:35345/ysptp/cctv5.m3u8
 CCTV5,http://127.0.0.1:35345/ysptp/cctv5p.m3u8
+CCTV6,http://127.0.0.1:35345/ysptp/cctv6.m3u8
 CCTV7,http://127.0.0.1:35345/ysptp/cctv7.m3u8
 CCTV8,http://127.0.0.1:35345/ysptp/cctv8.m3u8
 CCTV9,http://127.0.0.1:35345/ysptp/cctv9.m3u8
