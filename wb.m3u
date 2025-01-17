@@ -1,10 +1,5 @@
 #EXTM3U x-tvg-url="https://ghproxy.cn/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 
-#EXTINF:-1 group-title="央视",需软件支持
-webview://https://tv.cctv.com/live/cctv1/
-#EXTINF:-1 group-title="卫视",需软件支持
-webview://https://tv.cctv.com/live/cctv1/
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
 webview://https://tv.cctv.com/live/cctv1/
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视频",CCTV-1 综合
