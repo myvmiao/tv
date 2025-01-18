@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url="https://ghproxy.cn/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾;中天新闻
-webview://https://www.youtube.com/watch?v=vr3XyVCR4T0
-
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",中天新闻
+webview://https://www.gdtv.cn/tvChannelDetail/94
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
 webview://https://tv.cctv.com/live/cctv1/
