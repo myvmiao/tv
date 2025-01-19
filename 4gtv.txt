@@ -1,5 +1,3 @@
-中天新闻-yt,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
-中天新闻-yt,http://192.168.2.3:35455/youtube/vr3XyVCR4T0
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
@@ -44,7 +42,7 @@ TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 中天新聞台,https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
 寰宇新聞台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
-寰宇新聞台灣台,https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280
+寰宇新聞台灣台,https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 SBN全球財經台,https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=224
 寰宇財經台,https://www.4gtv.tv/channel/litv-longturn23?set=1&ch=281
 TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
@@ -134,3 +132,6 @@ TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
 花系列戲劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live004?set=1&ch=329
 超人力霸王《TV版》FastTV飛速看,https://www.4gtv.tv/channel/fast-live403?set=1&ch=318
 超人力霸王《劇場版》FastTV飛速看,https://www.4gtv.tv/channel/fast-live404?set=1&ch=325
+中天新闻-yt,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
+中天新闻-yt,http://192.168.2.3:36000/youtube/vr3XyVCR4T0
+中天新闻-yt,http://192.168.2.3:35455/youtube/vr3XyVCR4T0
