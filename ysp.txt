@@ -110,6 +110,8 @@ CCTV17,http://127.0.0.1:35345/ysptp/cctv17.m3u8
 CCTV17,http://192.168.2.3:35555/1000000006000268004/ystenlive/index.m3u8
 CCTV17,http://192.168.2.3:35555/1000000005000265015/ystenlive/index.m3u8
 CCTV17,http://192.168.2.3:35555/1000000005000056836/ystenlive/index.m3u8
+世界地理,http://192.168.2.3:36000/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
+兵器科技,http://192.168.2.3:36000/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
 凤凰卫视中文,http://192.168.2.3:36000/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
 凤凰卫视资讯,http://192.168.2.3:36000/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
 凤凰卫视香港,http://192.168.2.3:36000/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
