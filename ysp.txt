@@ -572,6 +572,34 @@ Hot亚洲影院,http://192.168.2.3:35555/5841816227539527643/wasusyt/index.m3u8
 求索生活,http://192.168.2.3:35555/6000000002000003382/wasusyt/index.m3u8
 求索生活,http://192.168.2.3:35555/2000000004000000008/hnbblive/index.m3u8
 湾湾直播,#genre#
+中天新闻-yt,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
+中天新闻-yt,http://192.168.2.3:36000/youtube/vr3XyVCR4T0
+中天新闻-yt,http://192.168.2.3:35455/youtube/vr3XyVCR4T0
+台視新聞台-yt,http://127.0.0.1:35345/youtube/xL0ch83RAK8
+台視新聞台-yt,http://192.168.2.3:36000/youtube/xL0ch83RAK8
+台視新聞台-yt,http://192.168.2.3:35455/youtube/xL0ch83RAK8
+東森新聞-yt,http://127.0.0.1:35345/youtube/V1p33hqPrUk
+東森新聞-yt,http://192.168.2.3:36000/youtube/V1p33hqPrUk
+東森新聞-yt,http://192.168.2.3:35455/youtube/V1p33hqPrUk
+TVBS NEWS-yt,http://127.0.0.1:35345/youtube/m_dhMSvUCIc
+TVBS NEWS-yt,http://192.168.2.3:36000/youtube/m_dhMSvUCIc
+TVBS NEWS-yt,http://192.168.2.3:35455/youtube/m_dhMSvUCIc
+TVBS新聞台-yt,http://127.0.0.1:35345/youtube/2mCSYvcfhtc
+TVBS新聞台-yt,http://192.168.2.3:36000/youtube/2mCSYvcfhtc
+TVBS新聞台-yt,http://192.168.2.3:35455/youtube/2mCSYvcfhtc
+民視新聞-yt,http://127.0.0.1:35345/youtube/ylYJSBUgaMA
+民視新聞-yt,http://192.168.2.3:36000/youtube/ylYJSBUgaMA
+民視新聞-yt,http://192.168.2.3:35455/youtube/ylYJSBUgaMA
+中視新聞-yt,http://127.0.0.1:35345/youtube/TCnaIE_SAtM
+中視新聞-yt,http://192.168.2.3:36000/youtube/TCnaIE_SAtM
+中視新聞-yt,http://192.168.2.3:35455/youtube/TCnaIE_SAtM
+寰宇新聞台-yt,http://127.0.0.1:35345/youtube/6IquAgfvYmc
+寰宇新聞台-yt,http://192.168.2.3:36000/youtube/6IquAgfvYmc
+寰宇新聞台-yt,http://192.168.2.3:35455/youtube/6IquAgfvYmc
+三立新聞-yt,http://127.0.0.1:35345/youtube/MV9mI0GChwo
+三立新聞-yt,http://192.168.2.3:36000/youtube/MV9mI0GChwo
+三立新聞-yt,http://192.168.2.3:35455/youtube/MV9mI0GChwo
+
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
