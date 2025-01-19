@@ -599,6 +599,9 @@ TVBS新聞台-yt,http://192.168.2.3:35455/youtube/2mCSYvcfhtc
 三立新聞-yt,http://127.0.0.1:35345/youtube/MV9mI0GChwo
 三立新聞-yt,http://192.168.2.3:36000/youtube/MV9mI0GChwo
 三立新聞-yt,http://192.168.2.3:35455/youtube/MV9mI0GChwo
+鏡新聞-yt,http://127.0.0.1:35345/youtube/5n0y6b0Q25o
+鏡新聞-yt,http://192.168.2.3:36000/youtube/5n0y6b0Q25o
+鏡新聞-yt,http://192.168.2.3:35455/youtube/5n0y6b0Q25o
 
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8
