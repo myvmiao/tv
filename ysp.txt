@@ -718,16 +718,16 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 湾湾YT,#genre#
 中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?url=http://127.0.0.1:35345
 中天新闻2台,http://127.0.0.1:35345/youtube/DM_PEM8GrIg?url=http://127.0.0.1:35345
+TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc?url=http://127.0.0.1:35345
+TVBS 選新闻1,http://127.0.0.1:35345/youtube/73h2HDxdMfw?url=http://127.0.0.1:35345
+TVBS 選新闻2,http://127.0.0.1:35345/youtube/NcVEccx1DD8?url=http://127.0.0.1:35345
+TVBS 選新闻3,http://127.0.0.1:35345/youtube/8jdQgoj0-Pw?url=http://127.0.0.1:35345
+TVBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35345
 公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8?url=http://127.0.0.1:35345
 民视新闻,http://127.0.0.1:35345/youtube/ylYJSBUgaMA?url=http://127.0.0.1:35345
 台视新闻,http://127.0.0.1:35345/youtube/xL0ch83RAK8?url=http://127.0.0.1:35345
 中视新闻,http://127.0.0.1:35345/youtube/TCnaIE_SAtM?url=http://127.0.0.1:35345
 华视新闻,http://127.0.0.1:35345/youtube/7lxXN3zIr-I?url=http://127.0.0.1:35345
-TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc?url=http://127.0.0.1:35345
-TVBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35345
-TVBS 選新闻1,http://127.0.0.1:35345/youtube/73h2HDxdMfw?url=http://127.0.0.1:35345
-TVBS 選新闻2,http://127.0.0.1:35345/youtube/NcVEccx1DD8?url=http://127.0.0.1:35345
-TVBS 選新闻3,http://127.0.0.1:35345/youtube/8jdQgoj0-Pw?url=http://127.0.0.1:35345
 三立新闻,http://127.0.0.1:35345/youtube/MV9mI0GChwo?url=http://127.0.0.1:35345
 三立 iNEWS,http://127.0.0.1:35345/youtube/BlKaF8og0jo?url=http://127.0.0.1:35345
 東森新闻,http://127.0.0.1:35345/youtube/E0zhe2gkXBs?url=http://127.0.0.1:35345
