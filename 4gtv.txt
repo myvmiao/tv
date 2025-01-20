@@ -132,6 +132,23 @@ TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
 花系列戲劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live004?set=1&ch=329
 超人力霸王《TV版》FastTV飛速看,https://www.4gtv.tv/channel/fast-live403?set=1&ch=318
 超人力霸王《劇場版》FastTV飛速看,https://www.4gtv.tv/channel/fast-live404?set=1&ch=325
-中天新闻-yt,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
 中天新闻-yt,http://192.168.2.3:36000/youtube/vr3XyVCR4T0
 中天新闻-yt,http://192.168.2.3:35455/youtube/vr3XyVCR4T0
+台視新聞台-yt,http://192.168.2.3:36000/youtube/xL0ch83RAK8
+台視新聞台-yt,http://192.168.2.3:35455/youtube/xL0ch83RAK8
+東森新聞-yt,http://192.168.2.3:36000/youtube/V1p33hqPrUk
+東森新聞-yt,http://192.168.2.3:35455/youtube/V1p33hqPrUk
+TVBS NEWS-yt,http://192.168.2.3:36000/youtube/m_dhMSvUCIc
+TVBS NEWS-yt,http://192.168.2.3:35455/youtube/m_dhMSvUCIc
+TVBS新聞台-yt,http://192.168.2.3:36000/youtube/2mCSYvcfhtc
+TVBS新聞台-yt,http://192.168.2.3:35455/youtube/2mCSYvcfhtc
+民視新聞-yt,http://192.168.2.3:36000/youtube/ylYJSBUgaMA
+民視新聞-yt,http://192.168.2.3:35455/youtube/ylYJSBUgaMA
+中視新聞-yt,http://192.168.2.3:36000/youtube/TCnaIE_SAtM
+中視新聞-yt,http://192.168.2.3:35455/youtube/TCnaIE_SAtM
+寰宇新聞台-yt,http://192.168.2.3:36000/youtube/6IquAgfvYmc
+寰宇新聞台-yt,http://192.168.2.3:35455/youtube/6IquAgfvYmc
+三立新聞-yt,http://192.168.2.3:36000/youtube/MV9mI0GChwo
+三立新聞-yt,http://192.168.2.3:35455/youtube/MV9mI0GChwo
+鏡新聞-yt,http://192.168.2.3:36000/youtube/5n0y6b0Q25o
+鏡新聞-yt,http://192.168.2.3:35455/youtube/5n0y6b0Q25o
