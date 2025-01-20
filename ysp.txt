@@ -736,39 +736,29 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
-湾湾yt,#genre#
+湾湾YT,#genre#
 中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?url=http://127.0.0.1:35345
-中天新闻2台,http://127.0.0.1:35345/youtube/gmKmAVLo6SA?url=http://127.0.0.1:35345
+中天新闻2台,http://127.0.0.1:35345/youtube/DM_PEM8GrIg?url=http://127.0.0.1:35345
 公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8?url=http://127.0.0.1:35345
 民视新闻,http://127.0.0.1:35345/youtube/ylYJSBUgaMA?url=http://127.0.0.1:35345
 台视新闻,http://127.0.0.1:35345/youtube/xL0ch83RAK8?url=http://127.0.0.1:35345
 中视新闻,http://127.0.0.1:35345/youtube/TCnaIE_SAtM?url=http://127.0.0.1:35345
-华视新闻,http://127.0.0.1:35345/youtube/wM0g8EoUZ_E?url=http://127.0.0.1:35345
+华视新闻,http://127.0.0.1:35345/youtube/7lxXN3zIr-I?url=http://127.0.0.1:35345
 TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc?url=http://127.0.0.1:35345
-TVBS 選新闻,http://127.0.0.1:35345/youtube/d1jUeoc3pio?url=http://127.0.0.1:35345
+TVBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35345
+TVBS 選新闻1,http://127.0.0.1:35345/youtube/73h2HDxdMfw?url=http://127.0.0.1:35345
+TVBS 選新闻2,http://127.0.0.1:35345/youtube/NcVEccx1DD8?url=http://127.0.0.1:35345
+TVBS 選新闻3,http://127.0.0.1:35345/youtube/8jdQgoj0-Pw?url=http://127.0.0.1:35345
 三立新闻,http://127.0.0.1:35345/youtube/MV9mI0GChwo?url=http://127.0.0.1:35345
 三立 iNEWS,http://127.0.0.1:35345/youtube/BlKaF8og0jo?url=http://127.0.0.1:35345
 東森新闻,http://127.0.0.1:35345/youtube/E0zhe2gkXBs?url=http://127.0.0.1:35345
-東森财经新闻,http://127.0.0.1:35345/youtube/1I2iq41Akmo?url=http://127.0.0.1:35345
+東森财经新闻http://127.0.0.1:35345/youtube/1I2iq41Akmo?url=http://127.0.0.1:35345
 寰宇新闻,http://127.0.0.1:35345/youtube/6IquAgfvYmc?url=http://127.0.0.1:35345
-寰宇财经新闻,http://127.0.0.1:35345/youtube/WTRQiVWK1jY?url=http://127.0.0.1:35345
 鏡新闻,http://127.0.0.1:35345/youtube/5n0y6b0Q25o?url=http://127.0.0.1:35345
 新闻大白話,http://127.0.0.1:35345/youtube/PsHTW_PNMeg?url=http://127.0.0.1:35345
 凤凰卫视资讯台,http://127.0.0.1:35345/youtube/HFib76ySpbU?url=http://127.0.0.1:35345
-CCTV4 中文国际,http://127.0.0.1:35345/youtube/twhG7_jvA8g?url=http://127.0.0.1:35345
-ABC NEWS,http://127.0.0.1:35345/youtube/-mvUkiILTqI?url=http://127.0.0.1:35345
-ABC NEWS (Australia),http://127.0.0.1:35345/youtube/vOTiJkg1voo?url=http://127.0.0.1:35345
-FRANCE 24,http://127.0.0.1:35345/youtube/l8PMl7tUDIE?url=http://127.0.0.1:35345
-LiveNOW from FOX,http://127.0.0.1:35345/youtube/rQz7-PP0vio?url=http://127.0.0.1:35345
-ANN NEWS,http://127.0.0.1:35345/youtube/coYw-eVU0Ks?url=http://127.0.0.1:35345
-NHK WORLD,http://127.0.0.1:35345/youtube/f0lYkdA-Gtw?url=http://127.0.0.1:35345
-TBS NEWS,http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35345
-中天亞洲,http://127.0.0.1:35345/youtube/YfeacCN2ORs?url=http://127.0.0.1:35345
-大愛电视,http://127.0.0.1:35345/youtube/MIqUplvSRWA?url=http://127.0.0.1:35345
-大愛电视2,http://127.0.0.1:35345/youtube/DTNkEm6jaqQ?url=http://127.0.0.1:35345
-中视经典综艺,http://127.0.0.1:35345/youtube/ADDSmXoPDY8?url=http://127.0.0.1:35345
-华视综艺频道,http://127.0.0.1:35345/youtube/UsZi0jxZHZ8?quality=720
 
+湾湾作废1,#genre#
 中天新闻1台,http://192.168.2.3:36000/youtube/vr3XyVCR4T0?url=http://192.168.2.3:36000
 中天新闻2台,http://192.168.2.3:36000/youtube/gmKmAVLo6SA?url=http://192.168.2.3:36000
 公视新闻,http://192.168.2.3:36000/youtube/quwqlazU-c8?url=http://192.168.2.3:36000
@@ -800,6 +790,7 @@ TBS NEWS,http://192.168.2.3:36000/youtube/ohI356mwBp8?url=http://192.168.2.3:360
 大愛电视2,http://192.168.2.3:36000/youtube/DTNkEm6jaqQ?url=http://192.168.2.3:36000
 中视经典综艺,http://192.168.2.3:36000/youtube/ADDSmXoPDY8?url=http://192.168.2.3:36000
 
+湾湾作废2,#genre#
 中天新闻1台,http://192.168.2.3:35455/youtube/vr3XyVCR4T0?url=http://192.168.2.3:35455
 中天新闻2台,http://192.168.2.3:35455/youtube/gmKmAVLo6SA?url=http://192.168.2.3:35455
 公视新闻,http://192.168.2.3:35455/youtube/quwqlazU-c8?url=http://192.168.2.3:35455
