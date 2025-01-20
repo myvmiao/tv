@@ -1,0 +1,124 @@
+#EXTM3U x-tvg-url="https://ghproxy.cn/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+
+#EXTINF:-1 tvg-name="中天新闻1台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",中天新闻1台
+http://127.0.0.1:35345/youtube/vr3XyVCR4T0?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="中天新闻2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",中天新闻2台
+http://127.0.0.1:35345/youtube/DM_PEM8GrIg?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="公视新闻" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="湾湾",公视新闻
+http://127.0.0.1:35345/youtube/quwqlazU-c8?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="湾湾",民视新闻
+http://127.0.0.1:35345/youtube/ylYJSBUgaMA?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="湾湾",台视新闻
+http://127.0.0.1:35345/youtube/xL0ch83RAK8?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="湾湾",中视新闻
+http://127.0.0.1:35345/youtube/TCnaIE_SAtM?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="湾湾",华视新闻
+http://127.0.0.1:35345/youtube/7lxXN3zIr-I?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="湾湾",TVBS NEWS
+http://127.0.0.1:35345/youtube/m_dhMSvUCIc?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="TVBS NEWS DIG" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="湾湾",TVBS NEWS DIG
+http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="TVBS 選新闻1" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="湾湾",TVBS 選新闻1
+http://127.0.0.1:35345/youtube/73h2HDxdMfw?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="TVBS 選新闻2" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="湾湾",TVBS 選新闻2
+http://127.0.0.1:35345/youtube/NcVEccx1DD8?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="TVBS 選新闻3" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="湾湾",TVBS 選新闻3
+http://127.0.0.1:35345/youtube/8jdQgoj0-Pw?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="湾湾",三立新闻
+http://127.0.0.1:35345/youtube/MV9mI0GChwo?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="三立 iNEWS" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="湾湾",三立 iNEWS
+http://127.0.0.1:35345/youtube/BlKaF8og0jo?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="東森新闻" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="湾湾",東森新闻
+http://127.0.0.1:35345/youtube/E0zhe2gkXBs?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="東森财经新闻" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="湾湾",東森财经新闻
+http://127.0.0.1:35345/youtube/1I2iq41Akmo?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="湾湾",寰宇新闻
+http://127.0.0.1:35345/youtube/6IquAgfvYmc?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="鏡新闻" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="湾湾",鏡新闻
+http://127.0.0.1:35345/youtube/5n0y6b0Q25o?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="新闻大白話" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",新闻大白話
+http://127.0.0.1:35345/youtube/PsHTW_PNMeg?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo=" " group-title="湾湾",凤凰卫视资讯台
+http://127.0.0.1:35345/youtube/HFib76ySpbU?url=http://127.0.0.1:35345
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
+http://172.21.86.3:35345/gaoma/cctv1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV2
+http://172.21.86.3:35345/gaoma/cctv2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV3
+http://172.21.86.3:35345/gaoma/cctv3.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV4
+http://172.21.86.3:35345/gaoma/cctv4.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV5
+http://172.21.86.3:35345/gaoma/cctv5.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+
+http://172.21.86.3:35345/gaoma/cctv5p.m3u8
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/cctv7.png" group-title="央视",CCTV7
+http://172.21.86.3:35345/gaoma/cctv7.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
+http://172.21.86.3:35345/gaoma/cctv8.m3u8
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
+http://172.21.86.3:35345/gaoma/cctv9.m3u8
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
+http://172.21.86.3:35345/gaoma/cctv10.m3u8
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
+http://172.21.86.3:35345/gaoma/cctv11.m3u8
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
+http://172.21.86.3:35345/gaoma/cctv12.m3u8
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
+http://172.21.86.3:35345/gaoma/cctv13.m3u8
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
+http://172.21.86.3:35345/gaoma/cctv14.m3u8
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
+http://172.21.86.3:35345/gaoma/cctv15.m3u8
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16
+http://172.21.86.3:35345/gaoma/cctv16.m3u8
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
+http://172.21.86.3:35345/gaoma/cctv17.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4k1" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",CCTV4k
+http://172.21.86.3:35345/gaoma/cctv4k_10m.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4k2" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",CCTV4k
+http://172.21.86.3:35345/gaoma/cctv4k.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8k1" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",CCTV8k
+http://172.21.86.3:35345/gaoma/cctv8k_36m.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8k2" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",CCTV8k
+http://172.21.86.3:35345/gaoma/cctv8k_120m.m3u8
