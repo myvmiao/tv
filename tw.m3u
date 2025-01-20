@@ -1,0 +1,55 @@
+#EXTM3U x-tvg-url="https://ghproxy.cn/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+
+#EXTINF:-1 tvg-name="中天新闻1台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",中天新闻1台
+http://127.0.0.1:35455/youtube/vr3XyVCR4T0?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="中天新闻2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",中天新闻2台
+http://127.0.0.1:35455/youtube/gmKmAVLo6SA?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name=公视新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",公视新闻
+http://127.0.0.1:35455/youtube/quwqlazU-c8?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",民视新闻
+http://127.0.0.1:35455/youtube/ylYJSBUgaMA?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",台视新闻
+http://127.0.0.1:35455/youtube/xL0ch83RAK8?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",中视新闻
+http://127.0.0.1:35455/youtube/TCnaIE_SAtM?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",华视新闻
+http://127.0.0.1:35455/youtube/wM0g8EoUZ_E?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="TVBS NEWS-1" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",TVBS NEWS
+http://127.0.0.1:35455/youtube/m_dhMSvUCIc?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="TVBS NEWS-1" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",TVBS NEWS
+http://127.0.0.1:35455/youtube/ohI356mwBp8?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="TVBS 選新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",TVBS 選新闻
+http://127.0.0.1:35455/youtube/d1jUeoc3pio?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",三立新闻
+http://127.0.0.1:35455/youtube/MV9mI0GChwo?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="三立 iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",三立 iNEWS
+http://127.0.0.1:35455/youtube/BlKaF8og0jo?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="東森新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",東森新闻
+http://127.0.0.1:35455/youtube/E0zhe2gkXBs?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="東森财经新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",東森财经新闻
+http://127.0.0.1:35455/youtube/1I2iq41Akmo?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",寰宇新闻
+http://127.0.0.1:35455/youtube/6IquAgfvYmc?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="鏡新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",鏡新闻
+http://127.0.0.1:35455/youtube/5n0y6b0Q25o?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="新闻大白話" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",新闻大白話
+http://127.0.0.1:35455/youtube/PsHTW_PNMeg?url=http://127.0.0.1:35455
+
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",凤凰卫视资讯台
+http://127.0.0.1:35455/youtube/HFib76ySpbU?url=http://127.0.0.1:35455
