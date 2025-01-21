@@ -677,6 +677,7 @@ Hot亚洲影院,http://192.168.2.3:35555/5841816227539527643/wasusyt/index.m3u8
 湾湾直播YT,#genre#
 中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?url=http://127.0.0.1:35345
 中天新闻2台,http://127.0.0.1:35345/youtube/DM_PEM8GrIg?url=http://127.0.0.1:35345
+TVBS新聞台,http://127.0.0.1:35345/youtube/2mCSYvcfhtc?url=http://127.0.0.1:35345
 TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc?url=http://127.0.0.1:35345
 TVBS 選新闻1,http://127.0.0.1:35345/youtube/73h2HDxdMfw?url=http://127.0.0.1:35345
 TVBS 選新闻2,http://127.0.0.1:35345/youtube/NcVEccx1DD8?url=http://127.0.0.1:35345
