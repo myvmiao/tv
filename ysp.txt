@@ -682,7 +682,6 @@ TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc?url=http://127.0.0.1:35345
 TVBS 選新闻1,http://127.0.0.1:35345/youtube/73h2HDxdMfw?url=http://127.0.0.1:35345
 TVBS 選新闻2,http://127.0.0.1:35345/youtube/NcVEccx1DD8?url=http://127.0.0.1:35345
 TVBS 選新闻3,http://127.0.0.1:35345/youtube/8jdQgoj0-Pw?url=http://127.0.0.1:35345
-TVBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35345
 公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8?url=http://127.0.0.1:35345
 民视新闻,http://127.0.0.1:35345/youtube/ylYJSBUgaMA?url=http://127.0.0.1:35345
 台视新闻,http://127.0.0.1:35345/youtube/xL0ch83RAK8?url=http://127.0.0.1:35345
@@ -694,8 +693,8 @@ TVBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35
 東森财经新闻http://127.0.0.1:35345/youtube/1I2iq41Akmo?url=http://127.0.0.1:35345
 寰宇新闻,http://127.0.0.1:35345/youtube/6IquAgfvYmc?url=http://127.0.0.1:35345
 鏡新闻,http://127.0.0.1:35345/youtube/5n0y6b0Q25o?url=http://127.0.0.1:35345
-新闻大白話,http://127.0.0.1:35345/youtube/PsHTW_PNMeg?url=http://127.0.0.1:35345
 凤凰卫视资讯台,http://127.0.0.1:35345/youtube/HFib76ySpbU?url=http://127.0.0.1:35345
+TBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35345
 
 湾湾直播,#genre#
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
