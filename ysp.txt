@@ -719,8 +719,6 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-中天新闻-测试1,http://192.168.2.233:35455/youtube/vr3XyVCR4T0?url=http://192.168.2.233:35455
-中天新闻-测试2,http://192.168.192.119:35455/youtube/vr3XyVCR4T0?url=http://192.168.192.119:35455
 
 翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 TVB PLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
@@ -739,3 +737,25 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 东森超视,rtmp://f13h.mine.nu/sat/tv331
+
+湾湾-192.168.2.3,#genre#
+中天新闻1台,http://192.168.2.3:36000/youtube/vr3XyVCR4T0?url=http://192.168.2.3:36000
+中天新闻2台,http://192.168.2.3:36000/youtube/DM_PEM8GrIg?url=http://192.168.2.3:36000
+TVBS新聞台,http://192.168.2.3:36000/youtube/2mCSYvcfhtc?url=http://192.168.2.3:36000
+TVBS NEWS,http://192.168.2.3:36000/youtube/m_dhMSvUCIc?url=http://192.168.2.3:36000
+TVBS 選新闻1,http://192.168.2.3:36000/youtube/73h2HDxdMfw?url=http://192.168.2.3:36000
+TVBS 選新闻2,http://192.168.2.3:36000/youtube/NcVEccx1DD8?url=http://192.168.2.3:36000
+TVBS 選新闻3,http://192.168.2.3:36000/youtube/8jdQgoj0-Pw?url=http://192.168.2.3:36000
+公视新闻,http://192.168.2.3:36000/youtube/quwqlazU-c8?url=http://192.168.2.3:36000
+民视新闻,http://192.168.2.3:36000/youtube/ylYJSBUgaMA?url=http://192.168.2.3:36000
+台视新闻,http://192.168.2.3:36000/youtube/xL0ch83RAK8?url=http://192.168.2.3:36000
+中视新闻,http://192.168.2.3:36000/youtube/TCnaIE_SAtM?url=http://192.168.2.3:36000
+华视新闻,http://192.168.2.3:36000/youtube/7lxXN3zIr-I?url=http://192.168.2.3:36000
+三立新闻,http://192.168.2.3:36000/youtube/MV9mI0GChwo?url=http://192.168.2.3:36000
+三立 iNEWS,http://192.168.2.3:36000/youtube/pF507BLtbqU?url=http://192.168.2.3:36000
+東森新闻,http://192.168.2.3:36000/youtube/E0zhe2gkXBs?url=http://192.168.2.3:36000
+東森财经新闻http://192.168.2.3:36000/youtube/1I2iq41Akmo?url=http://192.168.2.3:36000
+寰宇新闻,http://192.168.2.3:36000/youtube/6IquAgfvYmc?url=http://192.168.2.3:36000
+鏡新闻,http://192.168.2.3:36000/youtube/5n0y6b0Q25o?url=http://192.168.2.3:36000
+凤凰卫视资讯台,http://192.168.2.3:36000/youtube/HFib76ySpbU?url=http://192.168.2.3:36000
+TBS NEWS DIG,http://192.168.2.3:36000/youtube/ohI356mwBp8?url=http://192.168.2.3:36000
