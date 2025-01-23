@@ -79,6 +79,10 @@ CCTV17,http://192.168.2.3:36000/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17,http://192.168.2.3:36000/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 4 K 8 K,#genre#
+CCTV4k,http://127.0.0.1:35345/ysptp/cctv4k_10m.m3u8
+CCTV4k,http://127.0.0.1:35345/ysptp/cctv4k.m3u8
+CCTV8k,http://127.0.0.1:35345/ysptp/cctv8k_36m.m3u8
+CCTV8k,http://127.0.0.1:35345/ysptp/cctv8k_120m.m3u8
 CCTV4K-10m,http://192.168.2.3:36000/gaoma/cctv4k_10m.m3u8
 CCTV4K,http://192.168.2.3:36000/gaoma/cctv4k.m3u8
 CCTV4K-SDR,http://192.168.2.3:36000/rptv/G_CCTV-4K-HD.m3u8?license=gitv
