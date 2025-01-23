@@ -759,3 +759,25 @@ TVBS 選新闻3,http://192.168.2.3:36000/youtube/8jdQgoj0-Pw?url=http://192.168.
 鏡新闻,http://192.168.2.3:36000/youtube/5n0y6b0Q25o?url=http://192.168.2.3:36000
 凤凰卫视资讯台,http://192.168.2.3:36000/youtube/HFib76ySpbU?url=http://192.168.2.3:36000
 TBS NEWS DIG,http://192.168.2.3:36000/youtube/ohI356mwBp8?url=http://192.168.2.3:36000
+
+湾湾-192.168.2.233,#genre#
+中天新闻1台,http://192.168.2.233:35455/youtube/vr3XyVCR4T0?url=http://192.168.2.233:35455
+中天新闻2台,http://192.168.2.233:35455/youtube/DM_PEM8GrIg?url=http://192.168.2.233:35455
+TVBS新聞台,http://192.168.2.233:35455/youtube/2mCSYvcfhtc?url=http://192.168.2.233:35455
+TVBS NEWS,http://192.168.2.233:35455/youtube/m_dhMSvUCIc?url=http://192.168.2.233:35455
+TVBS 選新闻1,http://192.168.2.233:35455/youtube/73h2HDxdMfw?url=http://192.168.2.233:35455
+TVBS 選新闻2,http://192.168.2.233:35455/youtube/NcVEccx1DD8?url=http://192.168.2.233:35455
+TVBS 選新闻3,http://192.168.2.233:35455/youtube/8jdQgoj0-Pw?url=http://192.168.2.233:35455
+公视新闻,http://192.168.2.233:35455/youtube/quwqlazU-c8?url=http://192.168.2.233:35455
+民视新闻,http://192.168.2.233:35455/youtube/ylYJSBUgaMA?url=http://192.168.2.233:35455
+台视新闻,http://192.168.2.233:35455/youtube/xL0ch83RAK8?url=http://192.168.2.233:35455
+中视新闻,http://192.168.2.233:35455/youtube/TCnaIE_SAtM?url=http://192.168.2.233:35455
+华视新闻,http://192.168.2.233:35455/youtube/7lxXN3zIr-I?url=http://192.168.2.233:35455
+三立新闻,http://192.168.2.233:35455/youtube/MV9mI0GChwo?url=http://192.168.2.233:35455
+三立 iNEWS,http://192.168.2.233:35455/youtube/pF507BLtbqU?url=http://192.168.2.233:35455
+東森新闻,http://192.168.2.233:35455/youtube/E0zhe2gkXBs?url=http://192.168.2.233:35455
+東森财经新闻http://192.168.2.233:35455/youtube/1I2iq41Akmo?url=http://192.168.2.233:35455
+寰宇新闻,http://192.168.2.233:35455/youtube/6IquAgfvYmc?url=http://192.168.2.233:35455
+鏡新闻,http://192.168.2.233:35455/youtube/5n0y6b0Q25o?url=http://192.168.2.233:35455
+凤凰卫视资讯台,http://192.168.2.233:35455/youtube/HFib76ySpbU?url=http://192.168.2.233:35455
+TBS NEWS DIG,http://192.168.2.233:35455/youtube/ohI356mwBp8?url=http://192.168.2.233:35455
