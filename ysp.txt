@@ -334,26 +334,26 @@ SiTV-游戏风云,http://192.168.2.3:36000/itv/5000000011000031114.m3u8?cdn=best
 咪咕全民热练,http://192.168.2.3:36000/itv/3000000020000031315.m3u8?cdn=FifastbLive
 
 湾湾直播YT,#genre#
-中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?url=http://127.0.0.1:35345
-中天新闻2台,http://127.0.0.1:35345/youtube/DM_PEM8GrIg?url=http://127.0.0.1:35345
-TVBS新聞台,http://127.0.0.1:35345/youtube/2mCSYvcfhtc?url=http://127.0.0.1:35345
-TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc?url=http://127.0.0.1:35345
-TVBS 選新闻1,http://127.0.0.1:35345/youtube/73h2HDxdMfw?url=http://127.0.0.1:35345
-TVBS 選新闻2,http://127.0.0.1:35345/youtube/NcVEccx1DD8?url=http://127.0.0.1:35345
-TVBS 選新闻3,http://127.0.0.1:35345/youtube/8jdQgoj0-Pw?url=http://127.0.0.1:35345
-公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8?url=http://127.0.0.1:35345
-民视新闻,http://127.0.0.1:35345/youtube/ylYJSBUgaMA?url=http://127.0.0.1:35345
-台视新闻,http://127.0.0.1:35345/youtube/xL0ch83RAK8?url=http://127.0.0.1:35345
-中视新闻,http://127.0.0.1:35345/youtube/TCnaIE_SAtM?url=http://127.0.0.1:35345
-华视新闻,http://127.0.0.1:35345/youtube/7lxXN3zIr-I?url=http://127.0.0.1:35345
-三立新闻,http://127.0.0.1:35345/youtube/MV9mI0GChwo?url=http://127.0.0.1:35345
-三立 iNEWS,http://127.0.0.1:35345/youtube/pF507BLtbqU?url=http://127.0.0.1:35345
-東森新闻,http://127.0.0.1:35345/youtube/E0zhe2gkXBs?url=http://127.0.0.1:35345
-東森财经新闻http://127.0.0.1:35345/youtube/1I2iq41Akmo?url=http://127.0.0.1:35345
-寰宇新闻,http://127.0.0.1:35345/youtube/6IquAgfvYmc?url=http://127.0.0.1:35345
-鏡新闻,http://127.0.0.1:35345/youtube/5n0y6b0Q25o?url=http://127.0.0.1:35345
-凤凰卫视资讯台,http://127.0.0.1:35345/youtube/HFib76ySpbU?url=http://127.0.0.1:35345
-TBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8?url=http://127.0.0.1:35345
+中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
+中天新闻2台,http://127.0.0.1:35345/youtube/DM_PEM8GrIg
+TVBS新聞台,http://127.0.0.1:35345/youtube/2mCSYvcfhtc
+TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc
+TVBS 選新闻1,http://127.0.0.1:35345/youtube/73h2HDxdMfw
+TVBS 選新闻2,http://127.0.0.1:35345/youtube/NcVEccx1DD8
+TVBS 選新闻3,http://127.0.0.1:35345/youtube/8jdQgoj0-Pw
+公视新闻,http://127.0.0.1:35345/youtube/quwqlazU-c8
+民视新闻,http://127.0.0.1:35345/youtube/ylYJSBUgaMA
+台视新闻,http://127.0.0.1:35345/youtube/xL0ch83RAK8
+中视新闻,http://127.0.0.1:35345/youtube/TCnaIE_SAtM
+华视新闻,http://127.0.0.1:35345/youtube/7lxXN3zIr-I
+三立新闻,http://127.0.0.1:35345/youtube/MV9mI0GChwo
+三立 iNEWS,http://127.0.0.1:35345/youtube/pF507BLtbqU
+東森新闻,http://127.0.0.1:35345/youtube/E0zhe2gkXBs
+東森财经新闻http://127.0.0.1:35345/youtube/1I2iq41Akmo
+寰宇新闻,http://127.0.0.1:35345/youtube/6IquAgfvYmc
+鏡新闻,http://127.0.0.1:35345/youtube/5n0y6b0Q25o
+凤凰卫视资讯台,http://127.0.0.1:35345/youtube/HFib76ySpbU
+TBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8
 
 湾湾直播,#genre#
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -398,23 +398,23 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 湾湾-192.168.2.3,#genre#
-中天新闻1台,http://192.168.2.3:36000/youtube/vr3XyVCR4T0?url=http://192.168.2.3:36000
-中天新闻2台,http://192.168.2.3:36000/youtube/DM_PEM8GrIg?url=http://192.168.2.3:36000
-TVBS新聞台,http://192.168.2.3:36000/youtube/2mCSYvcfhtc?url=http://192.168.2.3:36000
-TVBS NEWS,http://192.168.2.3:36000/youtube/m_dhMSvUCIc?url=http://192.168.2.3:36000
-TVBS 選新闻1,http://192.168.2.3:36000/youtube/73h2HDxdMfw?url=http://192.168.2.3:36000
-TVBS 選新闻2,http://192.168.2.3:36000/youtube/NcVEccx1DD8?url=http://192.168.2.3:36000
-TVBS 選新闻3,http://192.168.2.3:36000/youtube/8jdQgoj0-Pw?url=http://192.168.2.3:36000
-公视新闻,http://192.168.2.3:36000/youtube/quwqlazU-c8?url=http://192.168.2.3:36000
-民视新闻,http://192.168.2.3:36000/youtube/ylYJSBUgaMA?url=http://192.168.2.3:36000
-台视新闻,http://192.168.2.3:36000/youtube/xL0ch83RAK8?url=http://192.168.2.3:36000
-中视新闻,http://192.168.2.3:36000/youtube/TCnaIE_SAtM?url=http://192.168.2.3:36000
-华视新闻,http://192.168.2.3:36000/youtube/7lxXN3zIr-I?url=http://192.168.2.3:36000
-三立新闻,http://192.168.2.3:36000/youtube/MV9mI0GChwo?url=http://192.168.2.3:36000
-三立 iNEWS,http://192.168.2.3:36000/youtube/pF507BLtbqU?url=http://192.168.2.3:36000
-東森新闻,http://192.168.2.3:36000/youtube/E0zhe2gkXBs?url=http://192.168.2.3:36000
-東森财经新闻http://192.168.2.3:36000/youtube/1I2iq41Akmo?url=http://192.168.2.3:36000
-寰宇新闻,http://192.168.2.3:36000/youtube/6IquAgfvYmc?url=http://192.168.2.3:36000
-鏡新闻,http://192.168.2.3:36000/youtube/5n0y6b0Q25o?url=http://192.168.2.3:36000
-凤凰卫视资讯台,http://192.168.2.3:36000/youtube/HFib76ySpbU?url=http://192.168.2.3:36000
-TBS NEWS DIG,http://192.168.2.3:36000/youtube/ohI356mwBp8?url=http://192.168.2.3:36000
+中天新闻1台,http://192.168.2.3:36000/youtube/vr3XyVCR4T0
+中天新闻2台,http://192.168.2.3:36000/youtube/DM_PEM8GrIg
+TVBS新聞台,http://192.168.2.3:36000/youtube/2mCSYvcfhtc
+TVBS NEWS,http://192.168.2.3:36000/youtube/m_dhMSvUCIc
+TVBS 選新闻1,http://192.168.2.3:36000/youtube/73h2HDxdMfw
+TVBS 選新闻2,http://192.168.2.3:36000/youtube/NcVEccx1DD8
+TVBS 選新闻3,http://192.168.2.3:36000/youtube/8jdQgoj0-Pw
+公视新闻,http://192.168.2.3:36000/youtube/quwqlazU-c8
+民视新闻,http://192.168.2.3:36000/youtube/ylYJSBUgaMA
+台视新闻,http://192.168.2.3:36000/youtube/xL0ch83RAK8
+中视新闻,http://192.168.2.3:36000/youtube/TCnaIE_SAtM
+华视新闻,http://192.168.2.3:36000/youtube/7lxXN3zIr-I
+三立新闻,http://192.168.2.3:36000/youtube/MV9mI0GChwo
+三立 iNEWS,http://192.168.2.3:36000/youtube/pF507BLtbqU
+東森新闻,http://192.168.2.3:36000/youtube/E0zhe2gkXBs
+東森财经新闻http://192.168.2.3:36000/youtube/1I2iq41Akmo
+寰宇新闻,http://192.168.2.3:36000/youtube/6IquAgfvYmc
+鏡新闻,http://192.168.2.3:36000/youtube/5n0y6b0Q25o
+凤凰卫视资讯台,http://192.168.2.3:36000/youtube/HFib76ySpbU
+TBS NEWS DIG,http://192.168.2.3:36000/youtube/ohI356mwBp8
