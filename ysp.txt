@@ -78,16 +78,16 @@ CCTV17,http://192.168.2.3:36000/gaoma/cctv17.m3u8
 CCTV17,http://192.168.2.3:36000/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17,http://192.168.2.3:36000/itv/1000000005000265015.m3u8?cdn=ystenlive
 
-4 K 8 K,#genre#
-CCTV4k,http://127.0.0.1:35345/ysptp/cctv4k_10m.m3u8
-CCTV4k,http://127.0.0.1:35345/ysptp/cctv4k.m3u8
-CCTV8k,http://127.0.0.1:35345/ysptp/cctv8k_36m.m3u8
-CCTV8k,http://127.0.0.1:35345/ysptp/cctv8k_120m.m3u8
-CCTV4K-10m,http://192.168.2.3:36000/gaoma/cctv4k_10m.m3u8
+4K 8K,#genre#
+CCTV4K,http://127.0.0.1:35345/ysptp/cctv4k_10m.m3u8
+CCTV4K,http://127.0.0.1:35345/ysptp/cctv4k.m3u8
+CCTV4K,http://192.168.2.3:36000/gaoma/cctv4k_10m.m3u8
 CCTV4K,http://192.168.2.3:36000/gaoma/cctv4k.m3u8
-CCTV4K-SDR,http://192.168.2.3:36000/rptv/G_CCTV-4K-HD.m3u8?license=gitv
-CCTV8K-36m,http://192.168.2.3:36000/gaoma/cctv8k_36m.m3u8
-CCTV8K-120m,http://192.168.2.3:36000/gaoma/cctv8k_120m.m3u8
+CCTV4K,http://192.168.2.3:36000/rptv/G_CCTV-4K-HD.m3u8?license=gitv
+CCTV8K,http://127.0.0.1:35345/ysptp/cctv8k_36m.m3u8
+CCTV8K,http://127.0.0.1:35345/ysptp/cctv8k_120m.m3u8
+CCTV8K,http://192.168.2.3:36000/gaoma/cctv8k_36m.m3u8
+CCTV8K,http://192.168.2.3:36000/gaoma/cctv8k_120m.m3u8
 CCTV1-4K,http://192.168.2.3:36000/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv
 CCTV3-4K,http://192.168.2.3:36000/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv
 CCTV5-4K,http://192.168.2.3:36000/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
@@ -101,11 +101,11 @@ CCTV16-4K-SDR,http://192.168.2.3:36000/rptv/G_CCTV-16-4K.m3u8?license=gitv
 咪咕4K-1,http://192.168.2.3:36000/itv/3000000010000005180.m3u8?cdn=FifastbLive
 咪咕4K-2,http://192.168.2.3:36000/itv/3000000010000015686.m3u8?cdn=FifastbLive
 篮球4K,http://192.168.2.3:36000/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
+SiTV-欢笑剧场-4K,http://192.168.2.3:36000/itv/5000000007000010001.m3u8?cdn=bestzb
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-SiTV-欢笑剧场-4K,http://192.168.2.3:36000/itv/5000000007000010001.m3u8?cdn=bestzb
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
 卫视频道,#genre#
 凤凰卫视中文台,http://192.168.2.3:36000/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
