@@ -278,7 +278,18 @@ webview://https://www.gdtv.cn/tvChannelDetail/104
 webview://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="湾湾",中天新聞台
-webview://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
+webview://https://www.youtube.com/watch?v=vr3XyVCR4T0
 
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo=" " group-title="湾湾",TVBS新聞
+webview://https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo=" " group-title="湾湾",TVBS NEWS
+webview://https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+#EXTINF:-1 tvg-name="東森新闻" tvg-logo=" " group-title="湾湾",東森新闻
+webview://https://www.youtube.com/watch?v=E0zhe2gkXBs
+
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo=" " group-title="湾湾",凤凰卫视资讯台
+webview://https://www.youtube.com/watch?v=HFib76ySpbU
 
 
