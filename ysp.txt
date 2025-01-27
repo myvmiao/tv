@@ -338,7 +338,7 @@ SiTV-游戏风云,http://192.168.2.3:36000/itv/5000000011000031114.m3u8?cdn=best
 咪咕全民热练,http://192.168.2.3:36000/itv/3000000020000031315.m3u8?cdn=FifastbLive
 
 
-湾湾直播YT,#genre#
+湾湾直播-本地,#genre#
 中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
 中天新闻2台,http://127.0.0.1:35345/youtube/DM_PEM8GrIg
 TVBS新聞台,http://127.0.0.1:35345/youtube/2mCSYvcfhtc
