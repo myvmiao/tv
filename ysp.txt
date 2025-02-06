@@ -361,39 +361,9 @@ TVBS 選新闻3,http://127.0.0.1:35345/youtube/8jdQgoj0-Pw
 TBS NEWS DIG,http://127.0.0.1:35345/youtube/ohI356mwBp8
 
 湾湾直播,#genre#
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
-翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
-TVB PLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
-HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
-澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
-澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
-重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
-
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
