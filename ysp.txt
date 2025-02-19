@@ -312,6 +312,11 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 
 湾湾-本地,#genre#
 中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0
+中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?quality=720
+中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?quality=480
+中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?quality=360
+中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?quality=240
+中天新闻1台,http://127.0.0.1:35345/youtube/vr3XyVCR4T0?quality=144
 中天新闻2台,http://127.0.0.1:35345/youtube/DM_PEM8GrIg
 TVBS新聞台,http://127.0.0.1:35345/youtube/2mCSYvcfhtc
 TVBS NEWS,http://127.0.0.1:35345/youtube/m_dhMSvUCIc
